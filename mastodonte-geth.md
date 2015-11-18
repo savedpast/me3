@@ -7,8 +7,7 @@ Un personnage à qui on a collé un colis à rapport dans le dos (puisqu'il a le
 En somme... Un bon gros personnage de soutien.
 
 
- * [Mastodonte Geth (Tourelle)](mastodonte-geth/tank.md)
+ * [Mastodonte Geth (Tank)](mastodonte-geth/tank.md)
  * [Mastodonte Geth (Tourelle)](#)
  * [Mastodonte Geth (Power Damage)](#), par notre guest-star dimitrie
- * 
  
