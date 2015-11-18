@@ -20,5 +20,27 @@ Adeptes
  * Adepte Butarien
  * Adepte Récolteur (Adept Build), par notre guest-star dimitrie
  * Adepte Récolteur (Soldier Build), par notre guest-star dimitrie
- * 
+ 
+Soldats
+=======
+
+ * Soldat Humain (Burst-Damage), par notre guest-star Sheppy
+ * Soldat Humain (Sustained Fire), par notre guest-star dimitrie
+ * Soldat Krogan
+ * Soldat Turien
+ * Soldat Battlefield 3 (to do)
+ * Soldat Butarien
+ * Soldat Butarien (Total meltdown)
+ * Soldat Vorcha
+ * Destroyer N7
+ * Barbare Turien
+ * Barbare Turien (Wreak Havoc Soldier Melee build)
+ * Soldat Geth (Flamer)
+ * Soldat Geth (Weapon Platform)
+ * Soldat Geth (Flatform / Kami-Soldier)
+ * Soldat Quarien, par notre guest-star Sheppy (to do)
+ * Mastodonte Geth (Tank)
+ * Mastodonte Geth (Tourelle)
+ * Mastodonte Geth (Power Damage), par notre guest-star dimitrie
+ 
  
