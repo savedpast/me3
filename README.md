@@ -39,9 +39,9 @@ Soldats
  * Soldat Geth (Weapon Platform)
  * Soldat Geth (Flatform / Kami-Soldier)
  * Soldat Quarien, par notre guest-star Sheppy (to do)
- * [Mastodonte Geth (Tank)](soldats/mastodonte-geth/tank.md)
- * [Mastodonte Geth (Tourelle)](soldats/mastodonte-geth/tourelle.md)
- * [Mastodonte Geth (Power Damage)](soldats/mastodonte-geth/power-damage.md), par notre guest-star dimitrie
+ * [Mastodonte Geth (Tank)](soldat/mastodonte-geth/tank.md)
+ * [Mastodonte Geth (Tourelle)](soldat/mastodonte-geth/tourelle.md)
+ * [Mastodonte Geth (Power Damage)](soldat/mastodonte-geth/power-damage.md), par notre guest-star dimitrie
 
 Ingénieurs
 ==========
