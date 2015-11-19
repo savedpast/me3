@@ -3,7 +3,7 @@ Mass Effect 3
 
 [original data](http://www.masseffectsaga.com/forum/index.php/topic,2767.0.html)
 
-[ toc ]
+[[toc]]
 
 Adeptes
 =======
