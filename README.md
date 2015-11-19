@@ -3,12 +3,9 @@ Mass Effect 3
 
 [original data](http://www.masseffectsaga.com/forum/index.php/topic,2767.0.html)
 
-* auto-gen TOC:
-{:toc}
 
 Adeptes
 =======
-
 
 ## Adepte Humain
 
@@ -50,10 +47,10 @@ Adeptes
 
  * [ ] [Adepte Récolteur (Adept Build)](adepte/adepte-recolteur.md#adept-build), par notre guest-star dimitrie
  * [ ] [Adepte Récolteur (Soldier Build)](adepte/adepte-recolteur.md#soldier-build), par notre guest-star dimitrie
+
  
 Soldats
 =======
-
 
 ## Soldat Humain
 
@@ -241,9 +238,9 @@ Francs-Tireurs
 
  * [ ] [Unité d'infiltration de l'Alliance](franc-tireur/unite-d-infiltration-de-l-alliance.md) (to do)
 
+
 Porte-Étendards
 ===============
-
 
 ## Porte-Étendard Humain
 
