@@ -9,8 +9,8 @@ Adeptes
 
 ## Adepte Humain
 
-[x] [Adepte Humain](adepte/adepte-humain.md)
-[x] [Adepte Drell](adepte/adepte-drell.md)
+ * [x] [Adepte Humain](adepte/adepte-humain.md)
+ * [x] [Adepte Drell](adepte/adepte-drell.md)
 
 ## Adepte Asari
 
@@ -98,8 +98,8 @@ Soldats
  * [ ] [Soldat Quarien](soldat/soldat-quarien.md), par notre guest-star Sheppy (to do)
 
 ## Mastodonte Geth
-[x] [Mastodonte Geth](soldat/mastodonte-geth.md)/
-[x] [Mastodonte Geth (Tank)](soldat/mastodonte-geth/tank.md)
+ * [x] [Mastodonte Geth](soldat/mastodonte-geth.md)/
+ * [x] [Mastodonte Geth (Tank)](soldat/mastodonte-geth/tank.md)
  * [ ] [Mastodonte Geth (Tourelle)](soldat/mastodonte-geth/tourelle.md)
  * [ ] [Mastodonte Geth (Power Damage)](soldat/mastodonte-geth/power-damage.md), par notre guest-star dimitrie
 
