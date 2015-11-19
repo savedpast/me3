@@ -6,20 +6,20 @@ Mass Effect 3
 Adeptes
 =======
 
- * Adepte Humain
- * Adepte Drell
- * Adepte Asari
- * Probatrice Asari (Defense mode), par notre guest star dimitrie
- * Probatrice Asari (Attack mode)
- * Probatrice Asari (Sans bulle) (to do)
- * Adepte Phénix
- * Furie N7
- * Adepte Volus
- * Adepte Krogan (Sans barrière)
+ * [Adepte Humain](adepte/humain.md)
+ * [Adepte Drell](adepte/drell.md)
+ * [Adepte Asari](adepte/asari.md)
+ * [Probatrice Asari (Defense mode)](adepte/probatrice-asari.md#defense-mode), par notre guest star dimitrie
+ * [Probatrice Asari (Attack mode)](adepte/probatrice-asari.md#attack-mode)
+ * [Probatrice Asari (Sans bulle)](adepte/probatrice-asari.md#sans-bulle) (to do)
+ * [Adepte Phénix](adepte/phenix.md)
+ * [Furie N7](adepte/furie-n7.md)
+ * [Adepte Volus](adepte/volus.md)
+ * [Adepte Krogan (Sans barrière)](adepte/krogan.md#sans-barriere)
  * Adepte Krogan, par notre guest-star dimitrie (to do)
- * Adepte Butarien
- * Adepte Récolteur (Adept Build), par notre guest-star dimitrie
- * Adepte Récolteur (Soldier Build), par notre guest-star dimitrie
+ * [Adepte Butarien](adepte/butarien.md)
+ * [Adepte Récolteur (Adept Build)](adepte/recolteur.md#adept-build), par notre guest-star dimitrie
+ * [Adepte Récolteur (Soldier Build)](adepte/recolteur.md#soldier-build), par notre guest-star dimitrie
  
 Soldats
 =======
@@ -39,10 +39,9 @@ Soldats
  * Soldat Geth (Weapon Platform)
  * Soldat Geth (Flatform / Kami-Soldier)
  * Soldat Quarien, par notre guest-star Sheppy (to do)
-[Mastodonte Geth](mastodonte-geth.md)
- * Mastodonte Geth (Tank)
- * Mastodonte Geth (Tourelle)
- * Mastodonte Geth (Power Damage), par notre guest-star dimitrie
+ * [Mastodonte Geth (Tank)](soldats/mastodonte-geth/tank.md)
+ * [Mastodonte Geth (Tourelle)](soldats/mastodonte-geth/tourelle.md)
+ * [Mastodonte Geth (Power Damage)](soldats/mastodonte-geth/power-damage.md), par notre guest-star dimitrie
 
 Ingénieurs
 ==========
