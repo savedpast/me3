@@ -39,6 +39,7 @@ Soldats
  * Soldat Geth (Weapon Platform)
  * Soldat Geth (Flatform / Kami-Soldier)
  * Soldat Quarien, par notre guest-star Sheppy (to do)
+[Mastodonte Geth](mastodonte-geth.md)
  * Mastodonte Geth (Tank)
  * Mastodonte Geth (Tourelle)
  * Mastodonte Geth (Power Damage), par notre guest-star dimitrie
