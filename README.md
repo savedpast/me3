@@ -39,14 +39,13 @@ Soldats
  * [ ] [Soldat Geth (Weapon Platform)](soldat/soldat-geth.md#)
  * [ ] [Soldat Geth (Flatform / Kami-Soldier)](soldat/soldat-geth.md#)
  * [ ] [Soldat Quarien](soldat/soldat-quarien.md), par notre guest-star Sheppy (to do)
- * [x] [Mastodonte Geth](soldat/mastodonte-geth.md) indexe
+ * [x] [Mastodonte Geth](soldat/mastodonte-geth.md)/
  * [x] [Mastodonte Geth (Tank)](soldat/mastodonte-geth/tank.md)
  * [ ] [Mastodonte Geth (Tourelle)](soldat/mastodonte-geth/tourelle.md)
  * [ ] [Mastodonte Geth (Power Damage)](soldat/mastodonte-geth/power-damage.md), par notre guest-star dimitrie
 
 Ingénieurs
 ==========
-ingenieur/ingenieur-volus.md
 
  * [ ] [Ingénieur Humain](ingenieur/ingenieur-humain.md), par notre guest-star Millenia (to do)
  * [ ] [Ingénieur Quarienne](ingenieur/ingenieur-quarienne.md)
