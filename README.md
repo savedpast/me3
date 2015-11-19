@@ -6,31 +6,20 @@ Mass Effect 3
 Adeptes
 =======
 
-adepte/adepte-asari.md
-adepte/adepte-butarien.md
-adepte/adepte-drell.md
-adepte/adepte-humain.md
-adepte/adepte-krogan.md
-adepte/adepte-phenix.md
-adepte/adepte-recolteur.md
-adepte/adepte-volus.md
-adepte/furie-n7.md
-adepte/probatrice-asari.md
-
- * [Adepte Humain](adepte/humain.md)
- * [Adepte Drell](adepte/drell.md)
- * [Adepte Asari](adepte/asari.md)
+ * [Adepte Humain](adepte/adepte-humain.md)
+ * [Adepte Drell](adepte/adepte-drell.md)
+ * [Adepte Asari](adepte/adepte-asari.md)
  * [Probatrice Asari (Defense mode)](adepte/probatrice-asari.md#defense-mode), par notre guest star dimitrie
  * [Probatrice Asari (Attack mode)](adepte/probatrice-asari.md#attack-mode)
  * [Probatrice Asari (Sans bulle)](adepte/probatrice-asari.md#sans-bulle) (to do)
- * [Adepte Phénix](adepte/phenix.md)
+ * [Adepte Phénix](adepte/adepte-phenix.md)
  * [Furie N7](adepte/furie-n7.md)
- * [Adepte Volus](adepte/volus.md)
- * [Adepte Krogan (Sans barrière)](adepte/krogan.md#sans-barriere)
+ * [Adepte Volus](adepte/adepte-volus.md)
+ * [Adepte Krogan (Sans barrière)](adepte/adepte-krogan.md#sans-barriere)
  * Adepte Krogan, par notre guest-star dimitrie (to do)
- * [Adepte Butarien](adepte/butarien.md)
- * [Adepte Récolteur (Adept Build)](adepte/recolteur.md#adept-build), par notre guest-star dimitrie
- * [Adepte Récolteur (Soldier Build)](adepte/recolteur.md#soldier-build), par notre guest-star dimitrie
+ * [Adepte Butarien](adepte/adepte-butarien.md)
+ * [Adepte Récolteur (Adept Build)](adepte/adepte-recolteur.md#adept-build), par notre guest-star dimitrie
+ * [Adepte Récolteur (Soldier Build)](adepte/adepte-recolteur.md#soldier-build), par notre guest-star dimitrie
  
 Soldats
 =======
@@ -57,30 +46,21 @@ Soldats
 
 Ingénieurs
 ==========
-ingenieur/ingenieur-galarien.md
-ingenieur/ingenieur-geth.md
-ingenieur/ingenieur-humain.md
-ingenieur/ingenieur-quarien.md
-ingenieur/ingenieur-quarienne.md
-ingenieur/ingenieur-saboteur-turien.md
 ingenieur/ingenieur-volus.md
-ingenieur/ingenieur-vorcha.md
-ingenieur/membre-des-serres.md
-ingenieur/predateur-n7.md
 
- * Ingénieur Humain, par notre guest-star Millenia (to do)
- * Ingénieur Quarienne
- * Ingénieur Galarien
- * Ingénieur Geth (Sniper build)
- * Ingénieur Geth (Combos build)
- * Ingénieur Quarien
- * Prédateur N7 (Infinite Grenade)
- * Prédateur N7, build n°2 (to do)
- * Ingénieur Volus
- * Ingénieur Saboteur Turien
- * Ingénieur Vorcha, par notre guest-star Quadraginta (to do)
- * Membre des Serres (Cain-minator) (to do)
- * Membre des Serres (CaC) (to do)
+ * [Ingénieur Humain](ingenieur/ingenieur-humain.md), par notre guest-star Millenia (to do)
+ * [Ingénieur Quarienne](ingenieur/ingenieur-quarienne.md)
+ * [Ingénieur Galarien](ingenieur/ingenieur-galarien.md)
+ * [Ingénieur Geth (Sniper build)](ingenieur/ingenieur-geth.md#sniper-build)
+ * [Ingénieur Geth (Combos build)](ingenieur/ingenieur-geth.md#combos-build)
+ * [Ingénieur Quarien](ingenieur/ingenieur-quarien.md)
+ * [Prédateur N7 (Infinite Grenade)](ingenieur/predateur-n7.md#infinite-grenade)
+ * [Prédateur N7, build n°2](ingenieur/predateur-n7.md#n-2) (to do)
+ * [Ingénieur Volus](ingenieur/ingenieur-volus.md)
+ * [Ingénieur Saboteur Turien](ingenieur/ingenieur-saboteur-turien.md)
+ * [Ingénieur Vorcha](ingenieur/ingenieur-vorcha.md), par notre guest-star Quadraginta (to do)
+ * [Membre des Serres (Cain-minator)](ingenieur/membre-des-serres.md#cain-minator) (to do)
+ * [Membre des Serres (CaC)](ingenieur/membre-des-serres.md#cac) (to do)
 
 Sentinelles
 ===========
@@ -123,7 +103,7 @@ Porte-Étendards
  * [Porte-Étendard Asari (Sans charge)](porte-etendard/porte-etendard-asari.md#full-degats-des-grenades)
  * [Porte-Étendard Krogan (Kroguard)](porte-etendard/porte-etendard-krogan.md)
  * [Porte-Étendard Phenix (Electric Smash build)](porte-etendard/porte-etendard-phenix.md#electric-smash-build)
- * [Porte-Étendard Phénix (Biotic smash build)](porte-etendard/porte-etendard-phenix.md#biotic-smash-build (to do)
+ * [Porte-Étendard Phénix (Biotic smash build)](porte-etendard/porte-etendard-phenix.md#biotic-smash-build) (to do)
  * [Fendeur N7](porte-etendard/fendeur-n7.md)
  * [Porte-Étendard Butarien (CaC)](porte-etendard/porte-etendard-butarien.md)
  * [Porte-Étendard Volus](porte-etendard/porte-etendard-volus.md)
