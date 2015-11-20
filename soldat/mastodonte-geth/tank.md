@@ -10,11 +10,11 @@ Donc, un tutoriel me semble s'imposer !
 
 <img src=http://i.imgur.com/LxScfLn.png />
 
-<img src=http://i.imgur.com/GQAxTyy.png />
-<img src=http://i.imgur.com/LX33UTz.png />
-<img src=http://i.imgur.com/2S1O7nA.png /> 
-<img src=http://i.imgur.com/snGWeX1.png />
-<img src=http://i.imgur.com/bhyGlpb.png />
+<img src="https://raw.githubusercontent.com/tst2005/me3/img/static/img/logo1-platine.png" />
+<img src="https://raw.githubusercontent.com/tst2005/me3/img/static/img/logo2-4etoiles.png" />
+<img src="https://raw.githubusercontent.com/tst2005/me3/img/static/img/logo3-jaune.png" />
+<img src="https://raw.githubusercontent.com/tst2005/me3/img/static/img/logo4-2etoiles.png" />
+<img src="https://raw.githubusercontent.com/tst2005/me3/img/static/img/logo5-3etoiles.png" />
 
 Pour la description des logos, vous pouvez aller [ICI](http://www.masseffectsaga.com/forum/index.php/topic,2767.msg38811.html#msg38811).
 Vous pouvez aussi retrouver le sommaire [ICI](http://www.masseffectsaga.com/forum/index.php/topic,2767.msg38810.html#msg38810).

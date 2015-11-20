@@ -6,11 +6,12 @@ L'Adepte Asari Stasis Queen
 
 [Lien vers le build](http://kalence.drupalgardens.com/me3-builder#13!5601535!!24X55364!0F8A)
 
-<img src="http://i.imgur.com/gPQeI3u.png" />
-<img src="http://i.imgur.com/50TUiiZ.png" />
-<img src="http://i.imgur.com/NVbnFXi.png" />
-<img src="http://i.imgur.com/YQrWubE.png" />
-<img src="http://i.imgur.com/bhyGlpb.png" />
+
+<img src="https://raw.githubusercontent.com/tst2005/me3/img/static/img/logo1-or-et-platine.png" />
+<img src="https://raw.githubusercontent.com/tst2005/me3/img/static/img/logo2-0etoile.png" />
+<img src="https://raw.githubusercontent.com/tst2005/me3/img/static/img/logo3-orange.png" />
+<img src="https://raw.githubusercontent.com/tst2005/me3/img/static/img/logo4-3etoiles.png" />
+<img src="https://raw.githubusercontent.com/tst2005/me3/img/static/img/logo5-3etoiles.png" />
 
 Note : Si vous jouez avec une autre arme que le Kishock, la Viabilité off-host passe à trois étoiles et la difficulté passe à moyen.
 
