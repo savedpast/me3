@@ -20,11 +20,11 @@ Nan nan, ici on se sort les doigts du fondement et on montre au monde entier qu'
 
 [Lien vers le build](http://kalence.drupalgardens.com/me3-builder#2B!4801565!2307585!34V54364!39AEC)
 
-<img src="https://raw.githubusercontent.com/tst2005/me3master/static/img/logo1-or-et-platine.png" />
-<img src="https://raw.githubusercontent.com/tst2005/me3master/static/img/logo2-3etoiles.png" />
-<img src="https://raw.githubusercontent.com/tst2005/me3master/static/img/logo3-orange.png" />
-<img src="https://raw.githubusercontent.com/tst2005/me3master/static/img/logo4-3etoiles.png" />
-<img src="https://raw.githubusercontent.com/tst2005/me3master/static/img/logo5-2etoiles.png" />
+<img src="https://raw.githubusercontent.com/tst2005/me3/master/static/img/logo1-or-et-platine.png" />
+<img src="https://raw.githubusercontent.com/tst2005/me3/master/static/img/logo2-3etoiles.png" />
+<img src="https://raw.githubusercontent.com/tst2005/me3/master/static/img/logo3-orange.png" />
+<img src="https://raw.githubusercontent.com/tst2005/me3/master/static/img/logo4-3etoiles.png" />
+<img src="https://raw.githubusercontent.com/tst2005/me3/master/static/img/logo5-2etoiles.png" />
 
 Pour la description des logos, vous pouvez aller ICI. Vous pouvez aussi retrouver le sommaire ICI.
 

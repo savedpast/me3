@@ -28,11 +28,11 @@ Offensive build
 [Lien vers le build](http://kalence.drupalgardens.com/me3-builder#15!1D01545!2309575!24K51384!GE55G)
 
 
-<img src="https://raw.githubusercontent.com/tst2005/me3master/static/img/logo1-or-et-platine.png" />
-<img src="https://raw.githubusercontent.com/tst2005/me3master/static/img/logo2-3etoiles.png" />
-<img src="https://raw.githubusercontent.com/tst2005/me3master/static/img/logo3-orange.png" />
-<img src="https://raw.githubusercontent.com/tst2005/me3master/static/img/logo4-3etoiles.png" />
-<img src="https://raw.githubusercontent.com/tst2005/me3master/static/img/logo5-2etoiles.png" />
+<img src="https://raw.githubusercontent.com/tst2005/me3/master/static/img/logo1-or-et-platine.png" />
+<img src="https://raw.githubusercontent.com/tst2005/me3/master/static/img/logo2-3etoiles.png" />
+<img src="https://raw.githubusercontent.com/tst2005/me3/master/static/img/logo3-orange.png" />
+<img src="https://raw.githubusercontent.com/tst2005/me3/master/static/img/logo4-3etoiles.png" />
+<img src="https://raw.githubusercontent.com/tst2005/me3/master/static/img/logo5-2etoiles.png" />
 
 Pour la description des logos, vous pouvez aller ICI. Vous pouvez aussi retrouver le sommaire ICI. 
 

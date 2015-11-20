@@ -31,11 +31,11 @@ Defence build
 [Lien vers le build (Full power)](http://kalence.drupalgardens.com/me3-builder#15!1D11545!!!8EF.G)
 
 
-<img src="https://raw.githubusercontent.com/tst2005/me3master/static/img/logo1-or-et-platine.png" />
-<img src="https://raw.githubusercontent.com/tst2005/me3master/static/img/logo2-3etoiles.png" />
-<img src="https://raw.githubusercontent.com/tst2005/me3master/static/img/logo3-jaune.png" />
-<img src="https://raw.githubusercontent.com/tst2005/me3master/static/img/logo4-3etoiles.png" />
-<img src="https://raw.githubusercontent.com/tst2005/me3master/static/img/logo5-3etoiles.png" />
+<img src="https://raw.githubusercontent.com/tst2005/me3/master/static/img/logo1-or-et-platine.png" />
+<img src="https://raw.githubusercontent.com/tst2005/me3/master/static/img/logo2-3etoiles.png" />
+<img src="https://raw.githubusercontent.com/tst2005/me3/master/static/img/logo3-jaune.png" />
+<img src="https://raw.githubusercontent.com/tst2005/me3/master/static/img/logo4-3etoiles.png" />
+<img src="https://raw.githubusercontent.com/tst2005/me3/master/static/img/logo5-3etoiles.png" />
 
 Pour la description des logos, vous pouvez aller ICI. Vous pouvez aussi retrouver le sommaire ICI. 
 

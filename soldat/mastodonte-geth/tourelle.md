@@ -18,11 +18,11 @@ Turret build
 <img src="http://i.imgur.com/7pTtkCD.png" />
 [Lien du build](http://kalence.drupalgardens.com/me3-builder#2B!1C01545!!13251314!38AAC)
 
-<img src="https://raw.githubusercontent.com/tst2005/me3master/static/img/logo1-or-et-platine.png" />
-<img src="https://raw.githubusercontent.com/tst2005/me3master/static/img/logo2-4etoiles.png" />
-<img src="https://raw.githubusercontent.com/tst2005/me3master/static/img/logo3-vert.png" />
-<img src="https://raw.githubusercontent.com/tst2005/me3master/static/img/logo4-4etoiles.png" />
-<img src="https://raw.githubusercontent.com/tst2005/me3master/static/img/logo5-3etoiles.png" />
+<img src="https://raw.githubusercontent.com/tst2005/me3/master/static/img/logo1-or-et-platine.png" />
+<img src="https://raw.githubusercontent.com/tst2005/me3/master/static/img/logo2-4etoiles.png" />
+<img src="https://raw.githubusercontent.com/tst2005/me3/master/static/img/logo3-vert.png" />
+<img src="https://raw.githubusercontent.com/tst2005/me3/master/static/img/logo4-4etoiles.png" />
+<img src="https://raw.githubusercontent.com/tst2005/me3/master/static/img/logo5-3etoiles.png" />
 
 Pour la description des logos, vous pouvez aller ICI. Vous pouvez aussi retrouver le sommaire ICI. 
 
