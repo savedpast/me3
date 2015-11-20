@@ -21,9 +21,9 @@ Adeptes
 
 ## Probatrice Asari
 
- * [x] [Probatrice Asari (Defense mode)](adepte/probatrice-asari.md#defense-mode), par notre guest star dimitrie
- * [ ] [Probatrice Asari (Attack mode)](adepte/probatrice-asari.md#attack-mode)
- * [ ] [Probatrice Asari (Sans bulle)](adepte/probatrice-asari.md#sans-bulle) (to do)
+ * [x] [Probatrice Asari (Defense mode)](adepte/probatrice-asari/defense-mode.md), par notre guest star dimitrie
+ * [x] [Probatrice Asari (Attack mode)](adepte/probatrice-asari/attack-mode.md)
+ * [ ] [Probatrice Asari (Sans bulle)](adepte/probatrice-asari/sans-bulle.md) (to do)
 
 ## Adepte Phénix
 

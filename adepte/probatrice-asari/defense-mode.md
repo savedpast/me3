@@ -9,15 +9,15 @@ Les asari vivent longtemps, et avec le temps viennent sagesse et maturité ( et 
 
 Alors, que cachent-elles sous leur combat suit ?
 
-    Potentiel de dégâts biotiques le plus faible parmi les adeptes.
-    Doit donc compenser par le port d'une arme plus lourde.
-    Une synergie des pouvoirs qui rend les explosions biotiques plus difficiles à réaliser.
+ * Potentiel de dégâts biotiques le plus faible parmi les adeptes.
+ * Doit donc compenser par le port d'une arme plus lourde.
+ * Une synergie des pouvoirs qui rend les explosions biotiques plus difficiles à réaliser.
 
 Mais si on y regarde bien :
 
-    Capacités de défense uniques parmi les adeptes, qui surpassent de loin celles du Chaman.
-    Peut également buffer la défense et l'attaque des alliés (jusqu’à un niveau absurde parfois )
-    Synergie avec les alliés biotiques extraordinaire
+ * Capacités de défense uniques parmi les adeptes, qui surpassent de loin celles du Chaman.
+ * Peut également buffer la défense et l'attaque des alliés (jusqu’à un niveau absurde parfois )
+ * Synergie avec les alliés biotiques extraordinaire
 
 En bref, une grosse classe de soutien.
 
