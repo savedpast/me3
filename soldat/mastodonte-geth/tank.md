@@ -12,11 +12,11 @@ Donc, un tutoriel me semble s'imposer !
 
 [le lien du build](http://kalence.drupalgardens.com/me3-builder#2B!3403565!!24X53314!38A7G)
 
-<img src="https://raw.githubusercontent.com/tst2005/me3/img/static/img/logo1-platine.png" />
-<img src="https://raw.githubusercontent.com/tst2005/me3/img/static/img/logo2-4etoiles.png" />
-<img src="https://raw.githubusercontent.com/tst2005/me3/img/static/img/logo3-jaune.png" />
-<img src="https://raw.githubusercontent.com/tst2005/me3/img/static/img/logo4-2etoiles.png" />
-<img src="https://raw.githubusercontent.com/tst2005/me3/img/static/img/logo5-3etoiles.png" />
+<img src="https://raw.githubusercontent.com/tst2005/me3master/static/img/logo1-platine.png" />
+<img src="https://raw.githubusercontent.com/tst2005/me3master/static/img/logo2-4etoiles.png" />
+<img src="https://raw.githubusercontent.com/tst2005/me3master/static/img/logo3-jaune.png" />
+<img src="https://raw.githubusercontent.com/tst2005/me3master/static/img/logo4-2etoiles.png" />
+<img src="https://raw.githubusercontent.com/tst2005/me3master/static/img/logo5-3etoiles.png" />
 
 Pour la description des logos, vous pouvez aller [ICI](http://www.masseffectsaga.com/forum/index.php/topic,2767.msg38811.html#msg38811).
 Vous pouvez aussi retrouver le sommaire [ICI](http://www.masseffectsaga.com/forum/index.php/topic,2767.msg38810.html#msg38810).

@@ -10,11 +10,11 @@ Alors ce perso, il est génial pour tout un tas de raisons : il est mobile, il a
 <img src="http://i.imgur.com/fbtGbBn.png" />
 [Le lien vers le Build](http://kalence.drupalgardens.com/me3-builder#14!3806535!!34W53384!E.0EG)
 
-<img src="https://raw.githubusercontent.com/tst2005/me3/img/static/img/logo1-or-et-platine.png" />
-<img src="https://raw.githubusercontent.com/tst2005/me3/img/static/img/logo2-3etoiles.png" />
-<img src="https://raw.githubusercontent.com/tst2005/me3/img/static/img/logo3-jaune.png" />
-<img src="https://raw.githubusercontent.com/tst2005/me3/img/static/img/logo4-3etoiles.png" />
-<img src="https://raw.githubusercontent.com/tst2005/me3/img/static/img/logo5-3etoiles.png" />
+<img src="https://raw.githubusercontent.com/tst2005/me3master/static/img/logo1-or-et-platine.png" />
+<img src="https://raw.githubusercontent.com/tst2005/me3master/static/img/logo2-3etoiles.png" />
+<img src="https://raw.githubusercontent.com/tst2005/me3master/static/img/logo3-jaune.png" />
+<img src="https://raw.githubusercontent.com/tst2005/me3master/static/img/logo4-3etoiles.png" />
+<img src="https://raw.githubusercontent.com/tst2005/me3master/static/img/logo5-3etoiles.png" />
 
 Pour la description des logos, vous pouvez aller ICI. Vous pouvez aussi retrouver le sommaire ICI.
 
