@@ -3,7 +3,7 @@
 <img src="http://image.noelshack.com/fichiers/2015/28/1436472478-adeptehumain.png" />
 [lien](http://kalence.drupalgardens.com/me3-builder#12!2309575!4702545!24L54384!EF8B39)
 
-<img src="https://raw.githubusercontent.com/tst2005/me3/img/static/img/logo1-build-optimise-pour-or-et-platine.png" />
+<img src="https://raw.githubusercontent.com/tst2005/me3/img/static/img/logo1-or-et-platine.png" />
 <img src="https://raw.githubusercontent.com/tst2005/me3/img/static/img/logo2-3etoiles.png" />
 <img src="https://raw.githubusercontent.com/tst2005/me3/img/static/img/logo3-vert.png" />
 <img src="https://raw.githubusercontent.com/tst2005/me3/img/static/img/logo4-1etoile.png" />
