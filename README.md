@@ -17,7 +17,7 @@ Adeptes
 
 ## Adepte Asari
 
- * [ ] [Adepte Asari](adepte/adepte-asari.md)
+ * [x] [Adepte Asari](adepte/adepte-asari.md)
 
 ## Probatrice Asari
 
