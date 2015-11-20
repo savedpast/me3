@@ -10,6 +10,8 @@ Donc, un tutoriel me semble s'imposer !
 
 <img src=http://i.imgur.com/LxScfLn.png />
 
+[le lien du build](http://kalence.drupalgardens.com/me3-builder#2B!3403565!!24X53314!38A7G)
+
 <img src="https://raw.githubusercontent.com/tst2005/me3/img/static/img/logo1-platine.png" />
 <img src="https://raw.githubusercontent.com/tst2005/me3/img/static/img/logo2-4etoiles.png" />
 <img src="https://raw.githubusercontent.com/tst2005/me3/img/static/img/logo3-jaune.png" />
