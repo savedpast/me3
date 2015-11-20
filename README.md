@@ -3,6 +3,8 @@ Mass Effect 3
 
 [original data](http://www.masseffectsaga.com/forum/index.php/topic,2767.0.html)
 
+Proportion de contenu importé : ~10 %
+
 
 Adeptes
 =======
