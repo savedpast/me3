@@ -104,7 +104,7 @@ Soldats
  * [x] [Mastodonte Geth](soldat/mastodonte-geth.md)/
  * [x] [Mastodonte Geth (Tank)](soldat/mastodonte-geth/tank.md)
  * [x] [Mastodonte Geth (Tourelle)](soldat/mastodonte-geth/tourelle.md)
- * [ ] [Mastodonte Geth (Power Damage)](soldat/mastodonte-geth/power-damage.md), par notre guest-star dimitrie
+ * [x] [Mastodonte Geth (Power Damage)](soldat/mastodonte-geth/power-damage.md), par notre guest-star dimitrie
 
 
 Ingénieurs
