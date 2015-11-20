@@ -10,6 +10,9 @@ Adeptes
 ## Adepte Humain
 
  * [x] [Adepte Humain](adepte/adepte-humain.md)
+
+## Adepte Drell
+
  * [x] [Adepte Drell](adepte/adepte-drell.md)
 
 ## Adepte Asari
