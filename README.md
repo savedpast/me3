@@ -103,7 +103,7 @@ Soldats
 ## Mastodonte Geth
  * [x] [Mastodonte Geth](soldat/mastodonte-geth.md)/
  * [x] [Mastodonte Geth (Tank)](soldat/mastodonte-geth/tank.md)
- * [ ] [Mastodonte Geth (Tourelle)](soldat/mastodonte-geth/tourelle.md)
+ * [x] [Mastodonte Geth (Tourelle)](soldat/mastodonte-geth/tourelle.md)
  * [ ] [Mastodonte Geth (Power Damage)](soldat/mastodonte-geth/power-damage.md), par notre guest-star dimitrie
 
 
@@ -270,7 +270,7 @@ Porte-Étendards
 
 ## Fendeur N7
 
- * [ ] [Fendeur N7](porte-etendard/fendeur-n7.md)
+ * [x] [Fendeur N7](porte-etendard/fendeur-n7.md)
 
 ## Porte-Étendard Butarien
 
