@@ -18,13 +18,13 @@
 * logo2-1etoile
 <img src="https://raw.githubusercontent.com/tst2005/me3/img/static/img/logo2-1etoile.png" />
 
-* logo2-2etoile
+* logo2-2etoiles
 <img src="https://raw.githubusercontent.com/tst2005/me3/img/static/img/logo2-2etoiles.png" />
 
-* logo2-3etoile
+* logo2-3etoiles
 <img src="https://raw.githubusercontent.com/tst2005/me3/img/static/img/logo2-3etoiles.png" />
 
-* logo2-4etoile
+* logo2-4etoiles
 <img src="https://raw.githubusercontent.com/tst2005/me3/img/static/img/logo2-4etoiles.png" />
 
 
