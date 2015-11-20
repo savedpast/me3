@@ -21,7 +21,7 @@ Adeptes
 
 ## Probatrice Asari
 
- * [ ] [Probatrice Asari (Defense mode)](adepte/probatrice-asari.md#defense-mode), par notre guest star dimitrie
+ * [x] [Probatrice Asari (Defense mode)](adepte/probatrice-asari.md#defense-mode), par notre guest star dimitrie
  * [ ] [Probatrice Asari (Attack mode)](adepte/probatrice-asari.md#attack-mode)
  * [ ] [Probatrice Asari (Sans bulle)](adepte/probatrice-asari.md#sans-bulle) (to do)
 
