@@ -3,7 +3,7 @@ Le Tailladeur Butarien a.k.a. Bubu boom boom
 
 <img src="http://image.noelshack.com/fichiers/2015/24/1433936338-capture.png" />
 
-[Lien viers le build](http://kalence.drupalgardens.com/me3-builder#10!1304555!2301595!24Z51384!EG055)
+[Lien vers le build](http://kalence.drupalgardens.com/me3-builder#10!1304555!2301595!24Z51384!EG055)
 `FIXME: original link is malformed`
 
 <img src="https://raw.githubusercontent.com/tst2005/me3/master/static/img/logo1-or-et-platine.png" />
