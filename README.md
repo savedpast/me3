@@ -1,7 +1,7 @@
 Mass Effect 3
 =============
 
-[original data](http://www.masseffectsaga.com/forum/index.php/topic,2767.0.html)
+[original data](http://www.masseffectsaga.com/forum/index.php/topic,2767.0.html) ou [ici](http://www.masseffectsaga.com/forum/index.php/topic,2767.msg38810.html#msg38810)
 
 Proportion de contenu importé : ~10 %
 
