@@ -5,12 +5,12 @@ Mais contrairement au build d'Adepte, où l'objectif était la synergie des pouv
 
 <img src="http://img15.hostingpics.net/pics/184290soldatcollectora.png" />
 
-[Lien vers le build]()
-`FIXME: pas de lien, a corriger`
+[Lien vers le build](http://kalence.drupalgardens.com/me3-builder#1A!1H01545!!24X51384!484AG)
+`FIXME: pas de lien, corrigé`
 `FIXME: le label du lien vers le 2eme build est nommé Soldier build alors que c'est l'Adepte Build`
 
 <img src="https://raw.githubusercontent.com/tst2005/me3/master/static/img/logo1-or-et-platine.png" />
-<img src="https://raw.githubusercontent.com/tst2005/me3/master/static/img/logo2-5etoile.png" />
+<img src="https://raw.githubusercontent.com/tst2005/me3/master/static/img/logo2-4etoiles.png" />
 <img src="https://raw.githubusercontent.com/tst2005/me3/master/static/img/logo3-vert.png" />
 <img src="https://raw.githubusercontent.com/tst2005/me3/master/static/img/logo4-4etoiles.png" />
 <img src="https://raw.githubusercontent.com/tst2005/me3/master/static/img/logo5-3etoiles.png" />
@@ -81,7 +81,7 @@ Les Distorsions niveau III ou IV, et rien d'autre.
 ## Informations supplémentaires
 
  * En Or : si vous êtes vraiment pauvres, essayez quand même de mettre des Distorsion au meilleur niveau possible et un Cyclonique. Si vous avez une arme plus faible que le Fusil à Particules, il faudra compenser par l'équipement.
- * En Platine : il vaut mieux avoir un équipement de chaque de présent, au moins au niveau III voire IV. 
+ * En Platine : il vaut mieux avoir un équipement de chaque de présent, au moins au niveau III voire IV.
 
 Comment je joue ce personnage ?
 ===============================
@@ -96,7 +96,7 @@ Par ce qu'au rang 6b de la passive "Vieux vengeur", on obtient, en plus d'un bon
 
 > Bonus de dommages additif
 > 50 x (1 + 0.025 + 0.025 +0.075 + 0.1) = 61.25
-> 
+>
 > Bonus de dommages additif + bonus multiplicatif
 > ( 50 x ( 1 + 0.025 + 0.025 +0.075 + 0.1 )) x ( 1 + 0.1) = 67.375
 

@@ -50,8 +50,9 @@ Adeptes
 
 ## Adepte Récolteur
 
- * [ ] [Adepte Récolteur (Adept Build)](adepte/adepte-recolteur/adept-build.md), par notre guest-star dimitrie [build résumé: ]
- * [ ] [Adepte Récolteur (Soldier Build)](adepte/adepte-recolteur/soldier-build.md), par notre guest-star dimitrie [build résumé: ]
+ * [x] [Adepte Récolteur](adepte/adepte-recolteur.md)/
+ * [x] [Adepte Récolteur (Adept Build)](adepte/adepte-recolteur/adept-build.md), par notre guest-star dimitrie [build résumé: 1+2+++3+-- 4-++5-]
+ * [x] [Adepte Récolteur (Soldier Build)](adepte/adepte-recolteur/soldier-build.md), par notre guest-star dimitrie [build résumé: 1+2+++3+ 4+--5---]
 
 
 Soldats
