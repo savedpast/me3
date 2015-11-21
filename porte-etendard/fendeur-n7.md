@@ -5,11 +5,11 @@ Le Fendeur N7 A.K.A. Lo Wang
 
 [Lien du build](http://kalence.drupalgardens.com/me3-builder#67!2309575!4702565!34N54362!G0.EGG)
 
-<img src="https://raw.githubusercontent.com/tst2005/me3master/static/img/logo1-or-et-platine.png" />
-<img src="https://raw.githubusercontent.com/tst2005/me3master/static/img/logo2-0etoile.png" />
-<img src="https://raw.githubusercontent.com/tst2005/me3master/static/img/logo3-orange.png" />
-<img src="https://raw.githubusercontent.com/tst2005/me3master/static/img/logo4-2etoiles.png" />
-<img src="https://raw.githubusercontent.com/tst2005/me3master/static/img/logo5-1etoile.png" />
+<img src="https://raw.githubusercontent.com/tst2005/me3/master/static/img/logo1-or-et-platine.png" />
+<img src="https://raw.githubusercontent.com/tst2005/me3/master/static/img/logo2-0etoile.png" />
+<img src="https://raw.githubusercontent.com/tst2005/me3/master/static/img/logo3-orange.png" />
+<img src="https://raw.githubusercontent.com/tst2005/me3/master/static/img/logo4-2etoiles.png" />
+<img src="https://raw.githubusercontent.com/tst2005/me3/master/static/img/logo5-1etoile.png" />
 
 Pour la description des logos, vous pouvez aller ICI. Vous pouvez aussi retrouver le sommaire ICI
 
