@@ -25,11 +25,11 @@ Adeptes
 
  * [x] [Probatrice Asari (Defense mode)](adepte/probatrice-asari/defense-mode.md), par notre guest star dimitrie
  * [x] [Probatrice Asari (Attack mode)](adepte/probatrice-asari/attack-mode.md)
- * [ ] [Probatrice Asari (Sans bulle)](adepte/probatrice-asari/sans-bulle.md) (to do)
+ * [ ] Probatrice Asari (Sans bulle)[](adepte/probatrice-asari/sans-bulle.md) (to do)
 
 ## Adepte Phénix
 
- * [ ] [Adepte Phénix](adepte/adepte-phenix.md)
+ * [x] [Adepte Phénix](adepte/adepte-phenix.md)
 
 ## Furie N7
 
