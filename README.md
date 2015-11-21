@@ -24,16 +24,16 @@ Adeptes
 ## Probatrice Asari
 
  * [x] [Probatrice Asari (Defense mode)](adepte/probatrice-asari/defense-mode.md), par notre guest star dimitrie [build résumé: ]
- * [x] [Probatrice Asari (Attack mode)](adepte/probatrice-asari/attack-mode.md) [build résumé: ]
+ * [x] [Probatrice Asari (Attack mode)](adepte/probatrice-asari/attack-mode.md) [build résumé: 1---2-+-3- 4-5---]
  * [ ] Probatrice Asari (Sans bulle)[](adepte/probatrice-asari/sans-bulle.md) (to do) [build résumé: ]
 
 ## Adepte Phénix
 
- * [x] [Adepte Phénix](adepte/adepte-phenix.md) [build résumé: ]
+ * [x] [Adepte Phénix](adepte/adepte-phenix.md) [build résumé: 1-+-2+++3--- 4-+5]
 
 ## Furie N7
 
- * [x] [Furie N7](adepte/furie-n7.md) [build résumé: ]
+ * [x] [Furie N7](adepte/furie-n7.md) [build résumé: 1-+-23+++ 4-+5---]
 
 ## Adepte Volus
 
@@ -103,10 +103,10 @@ Soldats
  * [ ] [Soldat Quarien](soldat/soldat-quarien.md), par notre guest-star Sheppy (to do) [build résumé: ]
 
 ## Mastodonte Geth
- * [x] [Mastodonte Geth](soldat/mastodonte-geth.md)/ [build résumé: ]
- * [x] [Mastodonte Geth (Tank)](soldat/mastodonte-geth/tank.md) [build résumé: ]
- * [x] [Mastodonte Geth (Tourelle)](soldat/mastodonte-geth/tourelle.md) [build résumé: ]
- * [x] [Mastodonte Geth (Power Damage)](soldat/mastodonte-geth/power-damage.md), par notre guest-star dimitrie [build résumé: ]
+ * [x] [Mastodonte Geth](soldat/mastodonte-geth.md)/
+ * [x] [Mastodonte Geth (Tank)](soldat/mastodonte-geth/tank.md) [build résumé: 12+++3+-- 4+-5---]
+ * [x] [Mastodonte Geth (Tourelle)](soldat/mastodonte-geth/tourelle.md) [build résumé: 12+++3+-- 4-++5--]
+ * [x] [Mastodonte Geth (Power Damage)](soldat/mastodonte-geth/power-damage.md), par notre guest-star dimitrie [build résumé: 12++-3+-- 4-+-5--]
 
 
 Ingénieurs
