@@ -6,7 +6,6 @@ Adept build
 <img src="http://img11.hostingpics.net/pics/730914Adeptcollector.png" />
 
 [Lien vers le build](http://kalence.drupalgardens.com/me3-builder#1A!2307595!4801545!34X54384!48AD5)
-`FIXME: pas de lien, corrigé`
 
 <img src="https://raw.githubusercontent.com/tst2005/me3/master/static/img/logo1-or-et-platine.png" />
 <img src="https://raw.githubusercontent.com/tst2005/me3/master/static/img/logo2-1etoile.png" />

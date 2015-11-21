@@ -4,7 +4,6 @@ Le Tailladeur Butarien a.k.a. Bubu boom boom
 <img src="http://image.noelshack.com/fichiers/2015/24/1433936338-capture.png" />
 
 [Lien vers le build](http://kalence.drupalgardens.com/me3-builder#10!1304555!2301595!24Z51384!EG055)
-`FIXME: original link is malformed`
 
 <img src="https://raw.githubusercontent.com/tst2005/me3/master/static/img/logo1-or-et-platine.png" />
 <img src="https://raw.githubusercontent.com/tst2005/me3/master/static/img/logo2-3etoiles.png" />
@@ -83,8 +82,6 @@ Dans la série des trucs insupportables les chasseurs geth se mettent invisibles
 Sinon vous êtes assez résistant avec un cyclonique mais pas du tout sans. Hésitez pas à spammer la grenade si ça se passe mal, en général c’est ce qu’on prescrit comme calmant aux furies hyperactives.
 Le corps à corps est correct mais situationnel.
 C’est à peu près tout, une petite vidéo by FM
-
-`FIXME: faute de frappe s/eptite/petite/`
 
 `FIXME: video à ajouter`
 

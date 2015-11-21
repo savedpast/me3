@@ -6,8 +6,6 @@ Mais contrairement au build d'Adepte, où l'objectif était la synergie des pouv
 <img src="http://img15.hostingpics.net/pics/184290soldatcollectora.png" />
 
 [Lien vers le build](http://kalence.drupalgardens.com/me3-builder#1A!1H01545!!24X51384!484AG)
-`FIXME: pas de lien, corrigé`
-`FIXME: le label du lien vers le 2eme build est nommé Soldier build alors que c'est l'Adepte Build`
 
 <img src="https://raw.githubusercontent.com/tst2005/me3/master/static/img/logo1-or-et-platine.png" />
 <img src="https://raw.githubusercontent.com/tst2005/me3/master/static/img/logo2-4etoiles.png" />
