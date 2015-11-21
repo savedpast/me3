@@ -3,7 +3,9 @@ Le Chaman Krogan
 
 <img src="http://img15.hostingpics.net/pics/187789ChamanKrogan.png" />
 
-[Lien vers le build](http://kalence.drupalgardens.com/me3-builder#19!3902535!2309545!24Y53314!.GDED0) #FIXME
+[Lien vers le build](http://kalence.drupalgardens.com/me3-builder#19!3902535!2309545!24Y53314!.GDED0)
+
+`FIXME: lien original qui pointe vers l'image`
 
 
 <img src="https://raw.githubusercontent.com/tst2005/me3/master/static/img/logo1-or-et-platine.png" />

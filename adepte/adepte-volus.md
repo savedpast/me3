@@ -18,7 +18,7 @@ Pour la description des logos, vous pouvez aller ICI. Vous pouvez aussi retrouve
 
 Bon, déjà, l'Adepte Volus a quasiment les mêmes caractéristiques que le PE, sauf qu'il a la Stase. Ce qui veut dire que si on ne fait pas un petit effort, ce personnage est un sous-vanguard sans intérêt. Heureusement... Il suffit de jeter un oeil au rang 6 des Orbes biotiques (qui est un pouvoir merveilleux, notamment pour KS - koukou Crac-Cr4c) pour reprendre espoir.
 
-L'adepte Volus, c'est sans doute le plus Healer de tous les Volus. Donc s'il y en a qui veulent absolument rester derrière avec un Volus pour soigner uniquement, celui-ci est peut-être le plus adapté. Mais je répète, c'est triste, parce qu'on peut foncer dans le tas avec. 
+L'adepte Volus, c'est sans doute le plus Healer de tous les Volus. Donc s'il y en a qui veulent absolument rester derrière avec un Volus pour soigner uniquement, celui-ci est peut-être le plus adapté. Mais je répète, c'est triste, parce qu'on peut foncer dans le tas avec.
 
 Les pouvoirs
 ============
@@ -75,7 +75,7 @@ Incendiaires, pour faire des boums !
 ## Informations supplémentaires
 
  * En Or, si vous êtes vraiment pauvres, on peut se contenter d'Incendiaires I et d'une Adrénaline (III si possible).
- * En Platine, il vaut mieux avoir un équipement de chaque de présent, au moins au niveau III voire IV. 
+ * En Platine, il vaut mieux avoir un équipement de chaque de présent, au moins au niveau III voire IV.
 
 Comment je joue ce personnage ?
 ===============================
@@ -104,7 +104,7 @@ Ce qu'il faut bien comprendre, c'est qu'en platine, AUCUN ennemi (à part peut-�
 
 Et c'est à peu près tout.
 
-La vidéo d'illustration : un solo platine avec ce personnage. 
+La vidéo d'illustration : un solo platine avec ce personnage.
 
 http://www.youtube.com/v/OilurTFu-_4&rel=1&fs=1
 
