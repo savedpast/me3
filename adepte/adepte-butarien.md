@@ -86,7 +86,6 @@ C’est à peu près tout, une petite vidéo by FM
 
 `FIXME: faute de frappe s/eptite/petite/`
 
-<embed src="http://www.youtube.com/v/2NA5drFyNuk&amp;rel=1&amp;fs=1" type="application/x-shockwave-flash" allowFullScreen="true" allowScriptAccess="never" wmode="transparent" width="425px" height="350px"><noembed><a href="http://www.youtube.com/watch?v=2NA5drFyNuk" target="_blank">http://www.youtube.com/watch?v=2NA5drFyNuk</a></noembed></embed>
-
+`FIXME: video à ajouter`
 
 
