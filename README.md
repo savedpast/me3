@@ -23,7 +23,7 @@ Adeptes
 
 ## Probatrice Asari
 
- * [x] [Probatrice Asari (Defense mode)](adepte/probatrice-asari/defense-mode.md), par notre guest star dimitrie [build résumé: ]
+ * [x] [Probatrice Asari (Defense mode)](adepte/probatrice-asari/defense-mode.md), par notre guest star dimitrie [build résumé: 1+++2-+-3- 4-5--- ou 1+++2-+-3--+ 5---]
  * [x] [Probatrice Asari (Attack mode)](adepte/probatrice-asari/attack-mode.md) [build résumé: 1---2-+-3- 4-5---]
  * [ ] Probatrice Asari (Sans bulle)[](adepte/probatrice-asari/sans-bulle.md) (to do) [build résumé: ]
 
