@@ -37,7 +37,7 @@ Adeptes
 
 ## Adepte Volus
 
- * [ ] [Adepte Volus](adepte/adepte-volus.md) [build résumé: ]
+ * [x] [Adepte Volus](adepte/adepte-volus.md) [build résumé: 1+-+2+-+3-+- 4--+]
 
 ## Adepte Krogan
 
