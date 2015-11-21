@@ -25,7 +25,7 @@ Cela désigne à quel point le personnage est affecté ou non par le fait de ne 
  * Une étoile : Mauvaise. Vous allez souffrir.
  * Deux étoiles : Moyenne. Ce sera pas génial, mais on a vu pire.
  * Trois étoiles : Bonne. Quelques problèmes par-ci par là, mais rien de méchant.
- * Quatre étoiles : Très bonne. À part les inévitables kits post-mortem et autres, vous n'allez pas sentir la différence. 
+ * Quatre étoiles : Très bonne. À part les inévitables kits post-mortem et autres, vous n'allez pas sentir la différence.
 
 
 ## Niveau de maîtrise requis
@@ -35,7 +35,7 @@ Cela désigne à quel point le personnage est difficile à jouer. Certains perso
  * Armure verte : Facile. N'importe qui peut le prendre en main rapidement.
  * Armure jaune : Moyen. Quelques petites choses auxquelles il faut faire attention, mais rien de méchant.
  * Armure orange : Difficile. Il faudra sans cesse compenser certaines lacunes du personnages (et éventuellement la latence) par la maîtrise.
- * Armure rouge : Vraiment difficile. Une erreur et vous êtes morts. 
+ * Armure rouge : Vraiment difficile. Une erreur et vous êtes morts.
 
 
 ## Niveau d'arme et d'équipement permanent requis
@@ -47,7 +47,7 @@ Il y a quatre niveaux :
  * Une étoile : Rien. Vous pouvez jouer avec un Prédateur I si ça vous chante.
  * Deux étoiles : Peu. Vous aurez besoin d'une arme en particulier au moins au niveau I, ou bien d'un équipement permanent à bon niveau.
  * Trois étoiles : Moyen. Il faut une, voire deux armes pas trop dégueulasses (ou particulières) à bon niveau et d'un équipement permanent qui suive.
- * Quatre étoiles : Beaucoup. Le build repose sur au moins une arme, souvent ultra-rare, maxée, qui ne peut pas être changée, et d'un équipement permanent particulier et maxé.  
+ * Quatre étoiles : Beaucoup. Le build repose sur au moins une arme, souvent ultra-rare, maxée, qui ne peut pas être changée, et d'un équipement permanent particulier et maxé.
 
 
 ## Niveau de consommables requis
@@ -57,5 +57,5 @@ Cela désigne la quantité d'équipements (Munitions / Arme Bonus / Armure Bonus
  * Une étoile : Rien. En Or ? Des Incendiaires I, et roule !
  * Deux étoiles : Peu. Un équipement de niveau I dans chaque slot, et on y va.
  * Trois étoiles : Moyen. Besoin d'au moins un équipement particulier à bon niveau.
- * Quatre étoiles : Beaucoup. Il faut remplir toutes les cases, avec précisément les équipements qu'on a mis, et au niveau max.  
+ * Quatre étoiles : Beaucoup. Il faut remplir toutes les cases, avec précisément les équipements qu'on a mis, et au niveau max.
 

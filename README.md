@@ -53,7 +53,7 @@ Adeptes
  * [ ] [Adepte Récolteur (Adept Build)](adepte/adepte-recolteur.md#adept-build), par notre guest-star dimitrie
  * [ ] [Adepte Récolteur (Soldier Build)](adepte/adepte-recolteur.md#soldier-build), par notre guest-star dimitrie
 
- 
+
 Soldats
 =======
 

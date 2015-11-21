@@ -10,4 +10,4 @@ En somme... Un bon gros personnage de soutien.
  * [Mastodonte Geth (Tank)](mastodonte-geth/tank.md)
  * [Mastodonte Geth (Tourelle)](#)
  * [Mastodonte Geth (Power Damage)](#), par notre guest-star dimitrie
- 
+

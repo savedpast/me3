@@ -37,7 +37,7 @@ Defence build
 <img src="https://raw.githubusercontent.com/tst2005/me3/master/static/img/logo4-3etoiles.png" />
 <img src="https://raw.githubusercontent.com/tst2005/me3/master/static/img/logo5-3etoiles.png" />
 
-Pour la description des logos, vous pouvez aller ICI. Vous pouvez aussi retrouver le sommaire ICI. 
+Pour la description des logos, vous pouvez aller ICI. Vous pouvez aussi retrouver le sommaire ICI.
 
 Les pouvoirs
 ============

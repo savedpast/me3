@@ -9,7 +9,7 @@ En ce qui me concerne, j'ai mis ce nom car il me fait marrer.
 
 Pour le reste, c'est quoi le Mastodonte ? Un personnage à qui on a collé un colis à rapport dans le dos (puisqu'il a le même malus de vitesse, qui ne s'applique pas en reculant). Donc il est lent, mais aussi très résistant. Il ne peut pas se faire grab. Il se fait très rarement stun (seuls les gros coups de Furies / Prétoriens / etc peuvent le stagger, et peu de temps). Il peut drainer des boucliers grâce au corps à corps. Et il peut déployer une tourelle et un bouclier pour protéger / soigner.
 
-En somme... Un bon gros personnage de soutien.  
+En somme... Un bon gros personnage de soutien.
 
 
 Turret build
@@ -24,7 +24,7 @@ Turret build
 <img src="https://raw.githubusercontent.com/tst2005/me3/master/static/img/logo4-4etoiles.png" />
 <img src="https://raw.githubusercontent.com/tst2005/me3/master/static/img/logo5-3etoiles.png" />
 
-Pour la description des logos, vous pouvez aller ICI. Vous pouvez aussi retrouver le sommaire ICI. 
+Pour la description des logos, vous pouvez aller ICI. Vous pouvez aussi retrouver le sommaire ICI.
 
 
 Les pouvoirs
@@ -36,7 +36,7 @@ Alors, déjà, oui, c'est "Bouclier Hexagonal" et pas "Bouclier Anti-Sort". J'em
 Et je le mets à trois, parce qu'il est assez résistant comme ça. Ceux qui veulent le prendre à 6 pour avoir le gros bouclier, oubliez : ça ne sert à rien sauf à une chose : gêner vos équipiers.
 D'une part, placer le petit bouclier sans gêner vos alliés n'est pas toujours facile, mais gérable. Le gros bouclier, dans 98.75% des cas, fera chier vos équipiers en bloquant leurs tirs / pouvoirs.
 D'autre part, et c'est le plus important : le petit bouclier suffit pour vous protéger, autant en taille qu'en résistance.
-Enfin, la dernière raison de laisser le bouclier à trois est que que ce build, on est une pure tourelle. Pas besoin de stun, ou autre, sur le bouclier : il servira juste à couvrir un côté. 
+Enfin, la dernière raison de laisser le bouclier à trois est que que ce build, on est une pure tourelle. Pas besoin de stun, ou autre, sur le bouclier : il servira juste à couvrir un côté.
 
 ## Impulsion assiégeante
 
@@ -53,7 +53,7 @@ Dégâts et boucliers pour que votre Tourelle résiste un peu, puis les deux am�
 
 ## Plateforme renforcée
 
-Jusqu'au rang 5, et tout dans la vie. On ne prend pas le rang 6 pour prendre le bouclier à 3, qui a un fort potentiel. 
+Jusqu'au rang 5, et tout dans la vie. On ne prend pas le rang 6 pour prendre le bouclier à 3, qui a un fort potentiel.
 
 Les armes et équipements
 ========================
@@ -68,7 +68,7 @@ Là dessus, on y met le Canon allongé, et après, c'est au choix : Mod perforan
 On peut aussi prendre la Typhoon avec les mêmes mods.
 
 Si vous voulez jouer une tourelle Sniper, prenez le Javelot (Mod de munitions / Canon à haute vélocité)
-La variante Javelot est plus recommandée pour l'or, celle au Dragon Geth va en platine sans soucis. 
+La variante Javelot est plus recommandée pour l'or, celle au Dragon Geth va en platine sans soucis.
 
 ## Arme secondaire
 
@@ -108,9 +108,9 @@ Ensuite, on se trouve des ennemis... Et on tire. Et on tire. Encore et encore. J
 Dès que vous avez des ennemis sur le flanc ou derrière vous, utilisez le bouclier histoire de vous couvrir. Il résistera assez longtemps pour vous permettre de sécuriser un côté ou de partir. Au pire, vous le redéploierez. N'hésitez pas à vous en servir pour protéger un flanc sur les hacks, en faisant attention à ne pas (trop) gêner vos alliés avec.
 Utilisez surtout le bouclier contre l'artillerie ennemie : Exterminateurs, Engeances, Primes... Ce sont vos pires ennemis.
 
-Lorsque vous relevez un allié, déployez d'abord le bouclier du côté où il y a des ennemis pour protéger un peu la zone, relevez le, puis posez la tourelle histoire de le soigner. 
+Lorsque vous relevez un allié, déployez d'abord le bouclier du côté où il y a des ennemis pour protéger un peu la zone, relevez le, puis posez la tourelle histoire de le soigner.
 
-La tourelle sert essentiellement pour soigner les alliés (elle régénère moins d'un sixième de votre bouclier par impulsion, mais peut bien aider les alliés) donc n'hésitez pas à la déployer près d'eux. Vous pouvez cela dit la déployer près de vous dès que c'est chaud. 
+La tourelle sert essentiellement pour soigner les alliés (elle régénère moins d'un sixième de votre bouclier par impulsion, mais peut bien aider les alliés) donc n'hésitez pas à la déployer près d'eux. Vous pouvez cela dit la déployer près de vous dès que c'est chaud.
 Vous pouvez la redéployer souvent, son cooldown n'est pas trop long. Et je vous conseille de la redéployer régulièrement, car elle soigne assez vite une fois déployée, ce qui n'est pas inutile ; d'autre part, c'est difficile de garder un oeil sur sa tourelle. En somme, déployez là partout où vous allez, ou mieux encore : partout où l'équipe va.
 
 N'hésitez pas aussi à vous servir du corps à corps pour vous soigner ou pour immobiliser un ennemi chiant à viser (Fantôme, c'est à toi que je pense)

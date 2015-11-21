@@ -130,8 +130,8 @@ Vos pires ennemis :
 
 Ne comptez pas trop faire un carnage avec votre arme (à part, évidemment, avec une Reegar…) Votre rôle est avant tout de tanker, d'occuper les ennemis et de survivre à leur nez et à leur barbe, tandis que vous équipiers vous aident en tuant ce qu'il y a sur vous.
 Ce qui veut dire qu'il vaut mieux être à proximité des copains…
- 
-Donc voilà. C'est un build assez particulier, assez situationnel, et personnellement je ne le joue jamais. Une vidéo d'illustration n'est pas exclue... Un jour peut-être. 
+
+Donc voilà. C'est un build assez particulier, assez situationnel, et personnellement je ne le joue jamais. Une vidéo d'illustration n'est pas exclue... Un jour peut-être.
 
 <img src="http://orig06.deviantart.net/b95e/f/2014/070/4/4/geth_juggernaut_meme_by_hellraiser_89-d79rwe4.png" />
 

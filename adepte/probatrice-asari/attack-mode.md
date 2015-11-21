@@ -34,7 +34,7 @@ Offensive build
 <img src="https://raw.githubusercontent.com/tst2005/me3/master/static/img/logo4-3etoiles.png" />
 <img src="https://raw.githubusercontent.com/tst2005/me3/master/static/img/logo5-2etoiles.png" />
 
-Pour la description des logos, vous pouvez aller ICI. Vous pouvez aussi retrouver le sommaire ICI. 
+Pour la description des logos, vous pouvez aller ICI. Vous pouvez aussi retrouver le sommaire ICI.
 
 Les pouvoirs
 ============
@@ -99,7 +99,7 @@ Distorsion et rien d'autre.
 ## Informations supplémentaires
 
  * En Or, si vous êtes vraiment pauvres, des Distorsion I toutes seules suffiront (mais il faut les prendre), si possible avec un Cyclonique. Pour l'arme, un fusil d'assaut ou à pompe convenable peut faire l'affaire, tant qu'il tape assez fort. À part si on a un fusil à pompe, l'Acolyte est vraiment important.
- * En Platine, il vaut mieux avoir un équipement de chaque de présent, au moins au niveau II voire III. Le Cyclo IV va vraiment aider, ainsi que des distorsion à bon niveau. 
+ * En Platine, il vaut mieux avoir un équipement de chaque de présent, au moins au niveau II voire III. Le Cyclo IV va vraiment aider, ainsi que des distorsion à bon niveau.
 
 
 Comment je joue ce personnage ?

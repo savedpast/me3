@@ -90,7 +90,7 @@ Dès que vous voyez un groupe d’ennemis : Tirs d’Acolyte et Singularité, pu
 Frapper sert contre les petits isolés, pour faire détonner la Singularité si vous êtes trop loin pour Impact, contre les ennemis chiants (Fantômes), et contre les abominations possédées bien évidemment (=> [KOUKOU SACRI](https://www.youtube.com/watch?v=GALndTR-FI0) <3 <=)
 Si vous faites Frapper sur un fantôme, mieux vaut faire un coup d'Acolyte avant.
 La règle d’or : CHAQUE FOIS que vous faites un Impact, faites une roulade sur le côté juste après (quand il lève ses fouets, ou dès que le cooldown est lancé). Ça va annuler une grande partie de l’animation qui vous ralentit, et lancer quand même le pouvoir. D’ailleurs, si vous voulez annuler votre impact, vous avez aussi le temps de faire une roulade avant qu’il ne soit lancé, et donc d’annuler le pouvoir.
-Tout repose sur ça : lancer l’impact au bon moment, en s’exposant un minimum, et faire la roulade après pour ne pas être handicapé ou exposé au danger par l’animation. 
+Tout repose sur ça : lancer l’impact au bon moment, en s’exposant un minimum, et faire la roulade après pour ne pas être handicapé ou exposé au danger par l’animation.
 
 La vidéo d'illustration :
 

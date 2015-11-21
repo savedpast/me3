@@ -75,7 +75,7 @@ Munitions à Distorsion : rajoutent des dégâts énormes aux armes si l’ennem
 
 Informations supplémentaires :
  * En Or, si vous êtes vraiment pauvres, essayez de mettre du niveau I partout. L'équipement permanent rajoutant des grenades est indispensable.
- * En Platine, il vaut mieux avoir un équipement de chaque de présent, au moins au niveau III voire IV. 
+ * En Platine, il vaut mieux avoir un équipement de chaque de présent, au moins au niveau III voire IV.
 
 # Comment je le joue?
 

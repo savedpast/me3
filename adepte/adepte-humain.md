@@ -33,7 +33,7 @@ Rayon, dégâts et explosion.
 Alors déjà, il faut savoir que l’explosion du rang 6 est un détonateur biotique. Ce qui veut dire que si vous avez une cible affectée par déchirure (ou un autre pouvoir d’un de vos équipiers) dans l’explosion de la singu, ça va faire une explosion biotique.
 Ensuite, SURTOUT PAS la durée de la singularité. SURTOUT PAS !! C’est parfaitement inutile d’avoir 12 secondes en plus, et ça rend l’explosion (du rang 6) inutilisable. À l’opposé, le rayon sera très utile pour mieux contrôler les foules.
 Le rang 5, c’est ce que vous voulez.
- 
+
 
 ## Déchirure
 
@@ -71,7 +71,7 @@ Au choix entre le pack du commando, un pack de la base ou des kits de survie sup
 
 ## Armure bonus
 
-L'Ampli de Pourvoir va vous servir à RIEN donc on va prendre un Cyclonique, histoire d'avoir plus de durabilité. 
+L'Ampli de Pourvoir va vous servir à RIEN donc on va prendre un Cyclonique, histoire d'avoir plus de durabilité.
 
 ## Arme bonus
 
@@ -86,7 +86,7 @@ Alors autant la déchirure est buggée avec les munitions incendiaires, autant j
 
 * En Or... Besoin de rien ! Un Cyclonique I si ça vous chante, et basta. Ce personnage peut tout faire rien qu'avec ses pouvoirs. Ce qui veut dire aussi que vous pouvez avoir n'importe quoi en arme tant que vous restez à plus de +150% de bonus en poids.
 
-* En Platine, il vaut mieux avoir un Cyclonique III ou IV, des munitions à distorsion et un Acolyte. Mais on peut s'en sortir sans (le Cyclonique est le plus important de tout ça). 
+* En Platine, il vaut mieux avoir un Cyclonique III ou IV, des munitions à distorsion et un Acolyte. Mais on peut s'en sortir sans (le Cyclonique est le plus important de tout ça).
 
 
 # Comment je joue ce personnage ?
@@ -102,7 +102,7 @@ En ce qui me concerne, j’aime bien envoyer une singularité sur un blindé qua
 
 À noter, pour la science, que si vous avez pris la lévitation sur l’Onde de Choc, vous pouvez faire détonner la cible qui vole avec une Déchirure. Le challenge étant de réussir à faire ça sur une cible qui n’a pas été tuée par Ondes de Choc OU par un coéquipier. En ce qui me concerne je ne le fais jamais, puisque je prends la vitesse de rechargement. Mais comme dirait Anfauglith : "les builds du Volus sont tellement bons qu’ils prennent même en compte les conneries qu’on peut faire en ne suivant pas exactement le build :D ! "
 
-Et voilà. Je conclus avec non pas une, mais deux vidéos d'illustration : une partie full adeptes humains, et un duo platine avec cette sacrée Davy :p 
+Et voilà. Je conclus avec non pas une, mais deux vidéos d'illustration : une partie full adeptes humains, et un duo platine avec cette sacrée Davy :p
 
 http://www.youtube.com/v/gNlbHr252ew&rel=1&fs=1
 http://www.youtube.com/v/kb30d4lOlp0&rel=1&fs=1

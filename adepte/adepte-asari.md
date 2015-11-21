@@ -82,8 +82,8 @@ Des Incendiaires pour profiter du bug avec la Déchirure. Certaines personnes qu
 
 ## Informations supplémentaires
 
- * En Or, si vous êtes vraiment pauvres, des Incendiaires I toutes seules suffisent amplement (mais il faut les prendre). Le Cyclonique III est fortement recommandé. 
- * En Platine, il vaut mieux avoir un équipement de chaque de présent, au moins au niveau II voire III. 
+ * En Or, si vous êtes vraiment pauvres, des Incendiaires I toutes seules suffisent amplement (mais il faut les prendre). Le Cyclonique III est fortement recommandé.
+ * En Platine, il vaut mieux avoir un équipement de chaque de présent, au moins au niveau II voire III.
 
 
 # Comment je joue ce personnage ?
@@ -97,7 +97,7 @@ Si jamais vous avez la flemme de viser un petit (même si ce serait étonnant vu
 Le seul problème, c'est que vous êtes assez en carton. Et honnêtement, j'ai pas envie d'aller pêcher des points ou que ce soit pour les investir dans Athlète, parce que le gain de bouclier est trop faible pour ce que ça apporte. En or, ça ira ; vous avez plus de 1000 de boucliers, là où 990 sont nécessaires pour résister à une rafale. En plus, vous avez la stase pour calmer les groupes d'ennemis. En platine, ce sera une autre histoire, et j'ai tendance à prendre des kits de survie supplémentaires.
 Usez et abusez de votre contrôle de foule (Stase), de vos esquives, et tuez rapidement les blindés avant qu'ils ne posent problème.
 
-Voici la vidéo d'illustration : un duo platine avec cette sacrée Davy ! 
+Voici la vidéo d'illustration : un duo platine avec cette sacrée Davy !
 
 http://www.youtube.com/v/HoLTQ-1RWZQ&rel=1&fs=1
 

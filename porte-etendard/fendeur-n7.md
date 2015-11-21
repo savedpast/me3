@@ -88,7 +88,7 @@ Les Antigrav restent quand même très viables (à condition qu'il n'y ait pas d
 ## Informations supplémentaires
 
  * En Or ? Des Incendiaires I et roule ! Pas besoin de plus !
- * En Platine, des Incendiaires I (ou plus) et un ampli de pouvoir IV suffisent. 
+ * En Platine, des Incendiaires I (ou plus) et un ampli de pouvoir IV suffisent.
 
 Comment je joue ce personnage ?
 ===============================
