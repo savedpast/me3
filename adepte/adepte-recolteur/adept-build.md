@@ -118,6 +118,5 @@ Bref vous l’aurez compris, jouer le build d'adept demande de l’anticipation 
 Une fois habitué au rythme particulier de ses pouvoirs, on peux vraiment se faire plaisir.
 Et ne gaspillez pas vos pouvoirs sur du menu fretin, vos Cooldown sont précieux.
 
-
-<embed src="http://www.youtube.com/v/hQb6YS1DGbE&amp;rel=1&amp;fs=1" type="application/x-shockwave-flash" allowFullScreen="true" allowScriptAccess="never" wmode="transparent" width="425px" height="350px"><noembed><a href="http://www.youtube.com/watch?v=hQb6YS1DGbE" target="_blank">http://www.youtube.com/watch?v=hQb6YS1DGbE</a></noembed></embed>
+http://www.youtube.com/watch?v=hQb6YS1DGbE
 
