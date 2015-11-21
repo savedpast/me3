@@ -33,7 +33,7 @@ Adeptes
 
 ## Furie N7
 
- * [ ] [Furie N7](adepte/furie-n7.md)
+ * [x] [Furie N7](adepte/furie-n7.md)
 
 ## Adepte Volus
 
