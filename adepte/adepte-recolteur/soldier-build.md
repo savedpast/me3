@@ -113,5 +113,5 @@ Si par exemple un mob vous fonce dessus ou vous prend par surprise.
 
 Lancer une sphère avant de recaster vos essaims. A noter que l'on peux cancel l'animation par une esquive !
 
-<embed src="http://www.youtube.com/v/r44qKofANjQ&amp;rel=1&amp;fs=1" type="application/x-shockwave-flash" allowFullScreen="true" allowScriptAccess="never" wmode="transparent" width="425px" height="350px"><noembed><a href="http://www.youtube.com/watch?v=r44qKofANjQ" target="_blank">http://www.youtube.com/watch?v=r44qKofANjQ</a></noembed></embed>
+http://www.youtube.com/watch?v=r44qKofANjQ
 
