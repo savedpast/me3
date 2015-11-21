@@ -25,7 +25,7 @@ Adeptes
 
  * [x] [Probatrice Asari (Defense mode)](adepte/probatrice-asari/defense-mode.md), par notre guest star dimitrie [build résumé: 1+++2-+-3- 4-5--- ou 1+++2-+-3--+ 5---]
  * [x] [Probatrice Asari (Attack mode)](adepte/probatrice-asari/attack-mode.md) [build résumé: 1---2-+-3- 4-5---]
- * [ ] Probatrice Asari (Sans bulle)[](adepte/probatrice-asari/sans-bulle.md) (to do) [build résumé: ]
+ * [x] Probatrice Asari (Sans bulle)[](adepte/probatrice-asari/sans-bulle.md) (to do) [build résumé: ]
 
 ## Adepte Phénix
 
@@ -41,8 +41,8 @@ Adeptes
 
 ## Adepte Krogan
 
- * [ ] [Adepte Krogan (Sans barrière)](adepte/adepte-krogan.md#sans-barriere) [build résumé: ]
- * [ ] [Adepte Krogan](adepte/adepte-krogan.md#todo), par notre guest-star dimitrie (to do) [build résumé: ]
+ * [x] [Adepte Krogan (Sans barrière)](adepte/adepte-krogan.md) [build résumé: 2---3-++ 4-+-5-++]
+ * [x] Adepte Krogan[](adepte/adepte-krogan.md#todo), par notre guest-star dimitrie (to do) [build résumé: ]
 
 ## Adepte Butarien
 
