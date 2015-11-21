@@ -46,7 +46,7 @@ Adeptes
 
 ## Adepte Butarien
 
- * [ ] [Adepte Butarien](adepte/adepte-butarien.md) [build résumé: ]
+ * [x] [Adepte Butarien](adepte/adepte-butarien.md) [build résumé: 1-+-2---3+-+ 4-5-]
 
 ## Adepte Récolteur
 
