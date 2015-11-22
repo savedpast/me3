@@ -250,7 +250,7 @@ Porte-Étendards
 
 ## Porte-Étendard Humain
 
- * [ ] [Porte-Étendard Humain (NovaGuard)](porte-etendard/porte-etendard-humain.md) [build résumé: ]
+ * [x] [Porte-Étendard Humain (NovaGuard)](porte-etendard/porte-etendard-humain.md) [build résumé: 1---3+-+ 4-+-5---]
 
 ## Porte-Étendard Drell
 
