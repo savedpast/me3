@@ -115,46 +115,46 @@ Ingénieurs
 
 ## Ingénieur Humain
 
- * [ ] [Ingénieur Humain](ingenieur/ingenieur-humain.md), par notre guest-star Millenia (to do) [build résumé: ]
+ * [x] Ingénieur Humain[](ingenieur/ingenieur-humain.md), par notre guest-star Millenia (to do) [build résumé: ]
 
 ## Ingénieur Quarienne
 
- * [ ] [Ingénieur Quarienne](ingenieur/ingenieur-quarienne.md) [build résumé: ]
+ * [ ] [Ingénieur Quarienne](ingenieur/ingenieur-quarienne.md) [build résumé: 2++-3--- 4+--5---]
 
 ## Ingénieur Galarien
 
- * [ ] [Ingénieur Galarien](ingenieur/ingenieur-galarien.md) [build résumé: ]
+ * [ ] [Ingénieur Galarien](ingenieur/ingenieur-galarien.md) [build résumé: 1-+-23++- 4-+-5--]
 
 ## Ingénieur Geth
 
- * [ ] [Ingénieur Geth (Sniper build)](ingenieur/ingenieur-geth.md#sniper-build) [build résumé: ]
- * [ ] [Ingénieur Geth (Combos build)](ingenieur/ingenieur-geth.md#combos-build) [build résumé: ]
+ * [ ] [Ingénieur Geth (Sniper build)](ingenieur/ingenieur-geth.md#sniper-build) [build résumé: 1+--2+++3--- 4-+-]
+ * [ ] [Ingénieur Geth (Combos build)](ingenieur/ingenieur-geth.md#combos-build) [build résumé: 1--+2++-3++- 4-+-]
 
 ## Ingénieur Quarien
 
- * [ ] [Ingénieur Quarien](ingenieur/ingenieur-quarien.md) [build résumé: ]
+ * [ ] [Ingénieur Quarien](ingenieur/ingenieur-quarien.md) [build résumé: 1-2---3+-- 4-+-5-]
 
 ## Prédateur N7
 
- * [ ] [Prédateur N7 (Infinite Grenade)](ingenieur/predateur-n7.md#infinite-grenade) [build résumé: ]
- * [ ] [Prédateur N7, build n°2](ingenieur/predateur-n7.md#n-2) (to do) [build résumé: ]
+ * [ ] [Prédateur N7 (Infinite Grenade)](ingenieur/predateur-n7.md#infinite-grenade) [build résumé: 1+++2+--3+-+ 4-+-]
+ * [x] Prédateur N7, build n°2[](ingenieur/predateur-n7.md#n-2) (to do) [build résumé: ]
 
 ## Ingénieur Volus
 
- * [ ] [Ingénieur Volus](ingenieur/ingenieur-volus.md) [build résumé: ]
+ * [ ] [Ingénieur Volus](ingenieur/ingenieur-volus.md) [build résumé: 1---2-+-3-+- 4-++]
 
 ## Ingénieur Saboteur Turien
 
- * [ ] [Ingénieur Saboteur Turien](ingenieur/ingenieur-saboteur-turien.md) [build résumé: ]
+ * [ ] [Ingénieur Saboteur Turien](ingenieur/ingenieur-saboteur-turien.md) [build résumé: 2-+-3+-+ 4+--5---]
 
 ## Ingénieur Vorcha
 
- * [ ] [Ingénieur Vorcha](ingenieur/ingenieur-vorcha.md), par notre guest-star Quadraginta (to do) [build résumé: ]
+ * [x] Ingénieur Vorcha[](ingenieur/ingenieur-vorcha.md), par notre guest-star Quadraginta (to do) [build résumé: ]
 
 ## Membre des Serres
 
- * [ ] [Membre des Serres (Cain-minator)](ingenieur/membre-des-serres.md#cain-minator) (to do) [build résumé: ]
- * [ ] [Membre des Serres (CaC)](ingenieur/membre-des-serres.md#cac) (to do) [build résumé: ]
+ * [x] Membre des Serres (Cain-minator)[](ingenieur/membre-des-serres.md#cain-minator) (to do) [build résumé: ]
+ * [x] Membre des Serres (CaC)[](ingenieur/membre-des-serres.md#cac) (to do) [build résumé: ]
 
 
 Sentinelles
@@ -162,40 +162,40 @@ Sentinelles
 
 ## Sentinelle Humaine
 
- * [ ] [Sentinelle Humaine](sentinelle/sentinelle-humaine.md) [build résumé: ]
+ * [ ] [Sentinelle Humaine](sentinelle/sentinelle-humaine.md) [build résumé: 1-+-2--+3+++ 5---]
 
 ## Sentinelle Turienne
 
- * [ ] [Sentinelle Turienne](sentinelle/sentinelle-turienne.md) [build résumé: ]
+ * [ ] [Sentinelle Turienne](sentinelle/sentinelle-turienne.md) [build résumé: 12--+3++- 4+--5--]
 
 ## Sentinelle Krogane
 
- * [ ] [Sentinelle Krogane](sentinelle/sentinelle-krogane.md#) [build résumé: ]
- * [ ] [Sentinelle Krogane (CaC)](sentinelle/sentinelle-krogane.md#cac) [build résumé: ]
+ * [ ] [Sentinelle Krogane](sentinelle/sentinelle-krogane.md#) [build résumé: 1-+2++-3++- 4-+5-]
+ * [ ] [Sentinelle Krogane (CaC)](sentinelle/sentinelle-krogane.md#cac) [build résumé: 1---2++- 4+--5+++]
 
 ## Sentinelle Butarienne
 
- * [ ] [Sentinelle Butarienne (Kishock)](sentinelle/sentinelle-butarienne.md) [build résumé: ]
+ * [ ] [Sentinelle Butarienne (Kishock)](sentinelle/sentinelle-butarienne.md) [build résumé: 12+-+3++- 4+--5--]
 
 ## Sentinelle Vorcha
 
- * [ ] [Sentinelle Vorcha](sentinelle/sentinelle-vorcha.md) [build résumé: ]
+ * [ ] [Sentinelle Vorcha](sentinelle/sentinelle-vorcha.md) [build résumé: 1-+-2-++3--+ 5---]
 
 ## Paladin N7
 
- * [ ] [Paladin N7](sentinelle/paladin-n7.md) [build résumé: ]
+ * [ ] [Paladin N7](sentinelle/paladin-n7.md) [build résumé: 12+++3--+ 4--5-++]
 
 ## Sentinelle Volus
 
- * [ ] [Sentinelle Volus](sentinelle/sentinelle-volus.md) [build résumé: ]
+ * [ ] [Sentinelle Volus](sentinelle/sentinelle-volus.md) [build résumé: 1-++2-+-3-+-4-++]
 
 ## Valkyrie Asari
 
- * [ ] [Valkyrie Asari](sentinelle/valkyrie-asari.md) [build résumé: ]
+ * [ ] [Valkyrie Asari](sentinelle/valkyrie-asari.md) [build résumé: 1-+-2--+3-+- 4-5-]
 
 ## Chef de guerre Krogan
 
- * [ ] [Chef de guerre Krogan](sentinelle/chef-de-guerre-krogan.md) [build résumé: ]
+ * [ ] [Chef de guerre Krogan](sentinelle/chef-de-guerre-krogan.md) [build résumé: 1---2+-- 4-++5+++]
 
 
 Francs-Tireurs
