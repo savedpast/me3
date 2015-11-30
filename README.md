@@ -237,7 +237,7 @@ Francs-Tireurs
 
 ## Chasseresse Asari
 
- * [ ] [Chasseresse Asari](franc-tireur/chasseresse-asari.md#) [build résumé: ]
+ * [x] [Chasseresse Asari](franc-tireur/chasseresse-asari/classique.md) [build résumé: 1---2++-3--+ 4-+-]
  * [ ] [Chasseresse Asari (Meltwarp)](franc-tireur/chasseresse-asari.md#meltwarp) [build résumé: ]
 
 ## Unité d'infiltration de l'Alliance
