@@ -58,7 +58,7 @@ Fusil à particules (Niveau V minimum), Fusil de précision Récolteur, Fusil d'
 
 ## Arme secondaire
 
-Acolyte UNIQUEMENT avec le Fusil d’assaut Récolteur.
+Acolyte UNIQUEMENT avec le Fusil d'assaut Récolteur.
 
 ## Equipement permanent
 

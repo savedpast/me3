@@ -1,7 +1,7 @@
 Le Récolteur éveillé
 ====================
 
-Une classe singulière et difficile a prendre en main, j’ai nommé l’Adepte Récolteur !
+Une classe singulière et difficile a prendre en main, j'ai nommé l'Adepte Récolteur !
 
 Jugez plutôt :
 

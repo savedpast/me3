@@ -103,17 +103,17 @@ Le GO TO contre les groupes de mob, une sphère dans le lot, de suite une canali
 
 Contre les boss, Acolyte pour les boucliers/barrières et ensuite combo : sphère - essaim - canalisation - essaim et KABOUM ! On peux aussi simplement virer les boucliers/barrières l'Acolyte, set en biotique avec canalisation et faire fondre avec les munitions à distorsion.
 
-Il est possible d’arrêter net un furie qui se téléporte avec le combot suivant : Sphère à vos pieds (là où elle sera 2 TP plus loin), canalisation, essaim, et dés qu'elle rentre dans la sphère -> essaim puis KABOUM !
+Il est possible d'arrêter net un furie qui se téléporte avec le combot suivant : Sphère à vos pieds (là où elle sera 2 TP plus loin), canalisation, essaim, et dés qu'elle rentre dans la sphère -> essaim puis KABOUM !
 
 Tips n°1 : Ne faire péter la sphère que si c'est nécessaire.
- * Soit par-ce qu'elle est au milieu d'un paquet d’ennemis. Un p'tit coup d'Acolyte avant aide beaucoup soit dit en passant...
+ * Soit par-ce qu'elle est au milieu d'un paquet d'ennemis. Un p'tit coup d'Acolyte avant aide beaucoup soit dit en passant...
  * Soit vous avez recasté vos essaims et la faire péter a ce moment là vous fait gagner un cooldown.
 
 Tips n°2 : Lancer une sphère avant de recaster vos essaims. A noter que l'on peux cancel l'animation par une esquive !
 
 Tips n°3 : Une fois en cooldown, ne pas hésiter à se replier derrière un couvert ou à se barrer.
 
-Bref vous l’aurez compris, jouer le build d'adept demande de l’anticipation et de la mobilité.
+Bref vous l'aurez compris, jouer le build d'adept demande de l'anticipation et de la mobilité.
 Une fois habitué au rythme particulier de ses pouvoirs, on peux vraiment se faire plaisir.
 Et ne gaspillez pas vos pouvoirs sur du menu fretin, vos Cooldown sont précieux.
 

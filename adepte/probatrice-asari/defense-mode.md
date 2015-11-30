@@ -16,7 +16,7 @@ Alors, que cachent-elles sous leur combat suit ?
 Mais si on y regarde bien :
 
  * Capacités de défense uniques parmi les adeptes, qui surpassent de loin celles du Chaman.
- * Peut également buffer la défense et l'attaque des alliés (jusqu’à un niveau absurde parfois )
+ * Peut également buffer la défense et l'attaque des alliés (jusqu'à un niveau absurde parfois )
  * Synergie avec les alliés biotiques extraordinaire
 
 En bref, une grosse classe de soutien.
@@ -130,7 +130,7 @@ Comment je joue ce personnage ?
 Bon, là, les choses se compliquent. Un tel build n'a de sens que si l'on joue défensivement.
 Mais rester camper h24 sur un même spot n'est pas idéal, voire même stupide dans ce jeu...
 
-Je coupe la poire en 2, je cherche l’ennemi, puis une position avantageuse et en fonction de l'ennemi j'érige ma bulle ou non.
+Je coupe la poire en 2, je cherche l'ennemi, puis une position avantageuse et en fonction de l'ennemi j'érige ma bulle ou non.
 
 Contre les mobs de base, un coup d'acolyte, télékinésie et rupture pour détonner.
 Contre les mobs en armure, un coup d'acolyte si bouclier, rupture et on érige la bulle sur leur tête pour détonner

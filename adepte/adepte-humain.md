@@ -23,28 +23,28 @@ C'est bien gentil de postuler l'écrasante suprématie de l'Adepte Humain, me di
  * N'a quasiment pas besoin d'arme ni même d'équipement.
  * Sa passive est, sans égaler celle des N7, très très bonne, tout comme son esquive.
 
-Donc voilà. Ce personnage peut à la fois gérer n’importe quel groupe de petits et n’importe quel boss assez rapidement grâce à ses dégâts monstrueux. En plus de ça, il n’est pas trop compliqué à manier et à faire tenir debout.
+Donc voilà. Ce personnage peut à la fois gérer n'importe quel groupe de petits et n'importe quel boss assez rapidement grâce à ses dégâts monstrueux. En plus de ça, il n'est pas trop compliqué à manier et à faire tenir debout.
 
 # Les pouvoirs
 
 ## Singularité
 
 Rayon, dégâts et explosion.
-Alors déjà, il faut savoir que l’explosion du rang 6 est un détonateur biotique. Ce qui veut dire que si vous avez une cible affectée par déchirure (ou un autre pouvoir d’un de vos équipiers) dans l’explosion de la singu, ça va faire une explosion biotique.
-Ensuite, SURTOUT PAS la durée de la singularité. SURTOUT PAS !! C’est parfaitement inutile d’avoir 12 secondes en plus, et ça rend l’explosion (du rang 6) inutilisable. À l’opposé, le rayon sera très utile pour mieux contrôler les foules.
-Le rang 5, c’est ce que vous voulez.
+Alors déjà, il faut savoir que l'explosion du rang 6 est un détonateur biotique. Ce qui veut dire que si vous avez une cible affectée par déchirure (ou un autre pouvoir d'un de vos équipiers) dans l'explosion de la singu, ça va faire une explosion biotique.
+Ensuite, SURTOUT PAS la durée de la singularité. SURTOUT PAS !! C'est parfaitement inutile d'avoir 12 secondes en plus, et ça rend l'explosion (du rang 6) inutilisable. À l'opposé, le rayon sera très utile pour mieux contrôler les foules.
+Le rang 5, c'est ce que vous voulez.
 
 
 ## Déchirure
 
-C’est toujours la même chose. Détonner, exposer, pénétrer (n'allez pas interpréter ça faussement, bande de gros dégueulasses :p !). Le reste ne sert à rien.
+C'est toujours la même chose. Détonner, exposer, pénétrer (n'allez pas interpréter ça faussement, bande de gros dégueulasses :p !). Le reste ne sert à rien.
 
 ## Ondes de choc
 
 Dégâts, explosions biotiques, et vitesse de rechargement.
 Si vous êtes sur PC, SURTOUT PAS le rayon au rang 4 ! Ça fait bugger le pouvoir (si vous êtes sur console, pas de bug, donc prenez-le).
 Au rang 5… Ça semble évident, entre la portée et un énorme boost sur vos explosions.
-Le rang 6 ne sert à rien sauf à faire une explosion plus puissante (niveau 12 et pas niveau 11) donc prenez ce que vous voulez, mais tant qu’à faire, autant recharger plus vite !
+Le rang 6 ne sert à rien sauf à faire une explosion plus puissante (niveau 12 et pas niveau 11) donc prenez ce que vous voulez, mais tant qu'à faire, autant recharger plus vite !
 
 ## Entraînement de l'Alliance
 
@@ -63,11 +63,11 @@ Comme très souvent, j'aime bien prendre l'Acolyte (Canon lourd/Matériaux Ultra
 
 ## Arme secondaire
 
-La mitraillette Récolteur (Mod de munitions/Canon allongé) pour aller avec l’Acolyte. Le combo parfait : acolyte pour les boucliers et blindages, mitraillette récolteur pour le reste. La Hurricane ou la Tempête marchent aussi. Si vous ne jouez pas l'Acolyte, vous pouvez prendre une mitraillette seule, ou bien à peu près n'importe quel pistolet : Pistolet à Arc, Carnifex... voire même le Prédateur (Mod perforant / Canon lourd )
+La mitraillette Récolteur (Mod de munitions/Canon allongé) pour aller avec l'Acolyte. Le combo parfait : acolyte pour les boucliers et blindages, mitraillette récolteur pour le reste. La Hurricane ou la Tempête marchent aussi. Si vous ne jouez pas l'Acolyte, vous pouvez prendre une mitraillette seule, ou bien à peu près n'importe quel pistolet : Pistolet à Arc, Carnifex... voire même le Prédateur (Mod perforant / Canon lourd )
 
 ## Equipement permanent
 
-Au choix entre le pack du commando, un pack de la base ou des kits de survie supplémentaires. J’ai tendance à prendre le pack du commando et éventuellement des kits de survie supplémentaires en cas de configuration difficile.
+Au choix entre le pack du commando, un pack de la base ou des kits de survie supplémentaires. J'ai tendance à prendre le pack du commando et éventuellement des kits de survie supplémentaires en cas de configuration difficile.
 
 ## Armure bonus
 
@@ -92,15 +92,15 @@ Alors autant la déchirure est buggée avec les munitions incendiaires, autant j
 # Comment je joue ce personnage ?
 
 Une fois que vous avez tout fait péter, vous passez au groupe suivant. Les survivants, achevez les avec votre arme ou une onde de choc pour les envoyer dans le mur.
-Un petit tout seul, sur lequel vous ne voulez pas perdre de temps ? Un coup d’Acolyte puis une Onde de Choc pour l’envoyer valser.
+Un petit tout seul, sur lequel vous ne voulez pas perdre de temps ? Un coup d'Acolyte puis une Onde de Choc pour l'envoyer valser.
 
-Contre les blindés… Virez les éventuels boucliers avec votre arme, et ensuite, c’est à vous de voir :
-* soit vous faites le combo double BE : Singularité + Déchirure : première BE puis Déchirure tout de suite après, qui va faire une BE avec l’explosion de Singularité. Si vous voulez faire ça, il faut lancer vos déchirures à l’instant même où le rechargement de pouvoir est terminé, sinon vous serez en retard sur l’explosion de la singularité.
+Contre les blindés… Virez les éventuels boucliers avec votre arme, et ensuite, c'est à vous de voir :
+* soit vous faites le combo double BE : Singularité + Déchirure : première BE puis Déchirure tout de suite après, qui va faire une BE avec l'explosion de Singularité. Si vous voulez faire ça, il faut lancer vos déchirures à l'instant même où le rechargement de pouvoir est terminé, sinon vous serez en retard sur l'explosion de la singularité.
 * soit vous envoyez directement la sauce avec Déchirure + Ondes de Choc.
 
-En ce qui me concerne, j’aime bien envoyer une singularité sur un blindé quand il y a des ennemis autour, et faire les deux explosions biotiques sur lui : ça gérera automatiquement les petits autour de lui. Si le blindé est tout seul, autant faire Déchirure + Ondes de Choc.
+En ce qui me concerne, j'aime bien envoyer une singularité sur un blindé quand il y a des ennemis autour, et faire les deux explosions biotiques sur lui : ça gérera automatiquement les petits autour de lui. Si le blindé est tout seul, autant faire Déchirure + Ondes de Choc.
 
-À noter, pour la science, que si vous avez pris la lévitation sur l’Onde de Choc, vous pouvez faire détonner la cible qui vole avec une Déchirure. Le challenge étant de réussir à faire ça sur une cible qui n’a pas été tuée par Ondes de Choc OU par un coéquipier. En ce qui me concerne je ne le fais jamais, puisque je prends la vitesse de rechargement. Mais comme dirait Anfauglith : "les builds du Volus sont tellement bons qu’ils prennent même en compte les conneries qu’on peut faire en ne suivant pas exactement le build :D ! "
+À noter, pour la science, que si vous avez pris la lévitation sur l'Onde de Choc, vous pouvez faire détonner la cible qui vole avec une Déchirure. Le challenge étant de réussir à faire ça sur une cible qui n'a pas été tuée par Ondes de Choc OU par un coéquipier. En ce qui me concerne je ne le fais jamais, puisque je prends la vitesse de rechargement. Mais comme dirait Anfauglith : "les builds du Volus sont tellement bons qu'ils prennent même en compte les conneries qu'on peut faire en ne suivant pas exactement le build :D ! "
 
 Et voilà. Je conclus avec non pas une, mais deux vidéos d'illustration : une partie full adeptes humains, et un duo platine avec cette sacrée Davy :p
 

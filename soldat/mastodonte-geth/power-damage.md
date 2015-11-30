@@ -34,7 +34,7 @@ Les pouvoirs
 ## Bouclier anti-sort (traduction faite avec le c** me voilà)
 
 Mettre ce pouvoir a 3.
-Les 3500 points du bouclier suffisent amplement, d'autant que vous n'aurez pas souvent l’opportunité de l'utiliser.
+Les 3500 points du bouclier suffisent amplement, d'autant que vous n'aurez pas souvent l'opportunité de l'utiliser.
 Soyez proactif avec ce pouvoir et érigez le avant de restaurer vos impulsions.
 
 ## Impulsion assiégeante
@@ -43,7 +43,7 @@ LE pouvoir Fort de ce build, avec celui-ci on va tout faire péter !
 Il va falloir apprendre à gérer ses 7.5 secondes de cooldown par contre.
 J'entends par là : regardez si vos n'avez pas besoin d'un Hex-shield et/ou de votre tourelle avant de recharger vos impulsions.
 
-ATTENTION ! POUVOIR SUJET AUX LAGS !! Alors soyez l’hôte dans la mesure du possible.
+ATTENTION ! POUVOIR SUJET AUX LAGS !! Alors soyez l'hôte dans la mesure du possible.
 
 On prend donc 4a "Dégâts", au rang 5 on a le choix entre a "Protection" pour plus de polyvalence ou b "Vitesse de rechargement" pour grappiller une seconde de cooldown et 6b "Dégâts de résistance" essentiellement pour les dégâts contre les armures.
 
@@ -126,7 +126,7 @@ Pour les boss en armure, la tactique reste globalement la même.
 Acolyte pour les boucliers, l'autre arme pour les armures et impulsion pour tout faire péter.
 
 L'utilisation du HEX-shield et de la tourelle doit est proactive a cause du cooldown de l'impulsion.
-Quant je vois des Primes, des Banshees, des Ravagers, des Scions, des Lance-roquettes... j’anticipe le placement du bouclier. Et j'envoie une tourelle en prévision de mes déplacements.
+Quant je vois des Primes, des Banshees, des Ravagers, des Scions, des Lance-roquettes... j'anticipe le placement du bouclier. Et j'envoie une tourelle en prévision de mes déplacements.
 
 Gardez à l'esprit que l'impulsion est un excellent détonateur tech. Si un de mes coéquipiers est ingénieur, j'essaie de faire la paire.
 
