@@ -203,46 +203,46 @@ Francs-Tireurs
 
 ## Franc-Tireur Humain
 
- * [ ] [Franc-Tireur Humain](franc-tireur/franc-tireur-humain.md) (to do) [build résumé: ]
+ * [x] Franc-Tireur Humain[](franc-tireur/franc-tireur-humain.md) (to do) [build résumé: ]
 
 ## Franc-Tireur Galarien
 
- * [ ] [Franc-Tireur Galarien](franc-tireur/franc-tireur-galarien.md) [build résumé: ]
+ * [ ] [Franc-Tireur Galarien](franc-tireur/franc-tireur-galarien.md) [build résumé: 1-+-3++- 4+--5---]
 
 ## Franche-Tireuse Quarienne
 
- * [ ] [Franche-Tireuse Quarienne](franc-tireur/franche-tireuse-quarienne.md#), par notre guest-star Anfauglith [build résumé: ]
- * [ ] [Franche-Tireuse Quarienne](franc-tireur/franche-tireuse-quarienne.md#), Swiss Knife Edition, par notre guest-star Anfauglith [build résumé: ]
- * [ ] [Franche-Tireuse Quarienne (Agrafeuse)](franc-tireur/franche-tireuse-quarienne.md#agrafeuse) [build résumé: ]
+ * [ ] [Franche-Tireuse Quarienne](franc-tireur/franche-tireuse-quarienne.md#classic-sniper), par notre guest-star Anfauglith [build résumé: 1-+-3-+- 4+--5---]
+ * [ ] [Franche-Tireuse Quarienne](franc-tireur/franche-tireuse-quarienne.md#swiss-knife), Swiss Knife Edition, par notre guest-star Anfauglith [build résumé: 1-+-2+-3-+- 4+--5]
+ * [ ] [Franche-Tireuse Quarienne (Agrafeuse)](franc-tireur/franche-tireuse-quarienne.md#agrafeuse) [build résumé: 1---2+-+3-+- 4+--]
 
 ## Franc-Tireur Geth
 
- * [ ] [Franc-Tireur Geth](franc-tireur/franc-tireur-geth.md) [build résumé: ]
+ * [ ] [Franc-Tireur Geth](franc-tireur/franc-tireur-geth.md) [build résumé: 1-+-2-+3--+ 4+--5]
 
 ## Franc-Tireur Quarien
 
- * [ ] [Franc-Tireur Quarien](franc-tireur/franc-tireur-quarien.md) (to do) [build résumé: ]
+ * [x] Franc-Tireur Quarien[](franc-tireur/franc-tireur-quarien.md) (to do) [build résumé: ]
 
 ## Ombre N7
 
- * [ ] [Ombre N7](franc-tireur/ombre-n7.md) [build résumé: ]
+ * [ ] [Ombre N7](franc-tireur/ombre-n7.md) [build résumé: 1--+3++- 4-++5+++]
 
 ## Franc-Tireur Turien
 
- * [ ] [Franc-Tireur Turien](franc-tireur/franc-tireur-turien.md) [build résumé: ]
+ * [ ] [Franc-Tireur Turien](franc-tireur/franc-tireur-turien.md) [build résumé: 1-2-3--- 4+--5---]
 
 ## Franc-Tireur Drell
 
- * [ ] [Franc-Tireur Drell](franc-tireur/franc-tireur-drell.md) [build résumé: ]
+ * [ ] [Franc-Tireur Drell](franc-tireur/franc-tireur-drell.md) [build résumé: 1-+-3-+- 4+--5---]
 
 ## Chasseresse Asari
 
  * [x] [Chasseresse Asari](franc-tireur/chasseresse-asari/classique.md) [build résumé: 1---2++-3--+ 4-+-]
- * [ ] [Chasseresse Asari (Meltwarp)](franc-tireur/chasseresse-asari.md#meltwarp) [build résumé: ]
+ * [ ] [Chasseresse Asari (Meltwarp)](franc-tireur/chasseresse-asari.md#meltwarp) [build résumé: 1-+-23+-+ 4-+-5--]
 
 ## Unité d'infiltration de l'Alliance
 
- * [ ] [Unité d'infiltration de l'Alliance](franc-tireur/unite-d-infiltration-de-l-alliance.md) (to do) [build résumé: ]
+ * [x] Unité d'infiltration de l'Alliance[](franc-tireur/unite-d-infiltration-de-l-alliance.md) (to do) [build résumé: ]
 
 
 Porte-Étendards
