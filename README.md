@@ -254,22 +254,22 @@ Porte-Étendards
 
 ## Porte-Étendard Drell
 
- * [ ] [Porte-Étendard Drell (DrellGuard)](porte-etendard/porte-etendard-drell.md) [build résumé: ]
+ * [ ] [Porte-Étendard Drell (DrellGuard)](porte-etendard/porte-etendard-drell.md) [build résumé: 1-+-3++- 4-+-5---]
 
 ## Porte-Étendard Asari
 
- * [ ] [Porte-Étendard Asari](porte-etendard/porte-etendard-asari.md), par notre guest-star Anfauglith [build résumé: ]
- * [ ] [Porte-Étendard Asari (Full dégâts des grenades)](porte-etendard/porte-etendard-asari.md#full-degats-des-grenades) [build résumé: ]
- * [ ] [Porte-Étendard Asari (Sans charge)](porte-etendard/porte-etendard-asari.md#full-degats-des-grenades) [build résumé: ]
+ * [ ] [Porte-Étendard Asari](porte-etendard/porte-etendard-asari.md), par notre guest-star Anfauglith [build résumé: 1---23++- 4-+5---]
+ * [ ] [Porte-Étendard Asari (Full dégâts des grenades)](porte-etendard/porte-etendard-asari.md#full-degats-des-grenades) [build résumé: 1---3++- 4-+-5---]
+ * [ ] [Porte-Étendard Asari (Sans charge)](porte-etendard/porte-etendard-asari.md#full-degats-des-grenades) [build résumé: 2+-+3++- 4---5---]
 
 ## Porte-Étendard Krogan
 
- * [ ] [Porte-Étendard Krogan (Kroguard)](porte-etendard/porte-etendard-krogan.md) [build résumé: ]
+ * [ ] [Porte-Étendard Krogan (Kroguard)](porte-etendard/porte-etendard-krogan.md) [build résumé: 1---3-+- 4-++5+++]
 
 ## Porte-Étendard Phenix
 
- * [ ] [Porte-Étendard Phenix (Electric Smash build)](porte-etendard/porte-etendard-phenix.md#electric-smash-build) [build résumé: ]
- * [ ] [Porte-Étendard Phénix (Biotic smash build)](porte-etendard/porte-etendard-phenix.md#biotic-smash-build) (to do) [build résumé: ]
+ * [ ] [Porte-Étendard Phenix (Electric Smash build)](porte-etendard/porte-etendard-phenix.md#electric-smash-build) [build résumé: 1--+2-++3 4-+5---]
+ * [x] Porte-Étendard Phénix (Biotic smash build)[](porte-etendard/porte-etendard-phenix.md#biotic-smash-build) (to do) [build résumé: ]
 
 ## Fendeur N7
 
@@ -277,13 +277,13 @@ Porte-Étendards
 
 ## Porte-Étendard Butarien
 
- * [ ] [Porte-Étendard Butarien (CaC)](porte-etendard/porte-etendard-butarien.md) [build résumé: ]
+ * [ ] [Porte-Étendard Butarien (CaC)](porte-etendard/porte-etendard-butarien.md) [build résumé: 1-+-3-+- 4-+-5+++]
 
 ## Porte-Étendard Volus
 
- * [ ] [Porte-Étendard Volus](porte-etendard/porte-etendard-volus.md) [build résumé: ]
+ * [ ] [Porte-Étendard Volus](porte-etendard/porte-etendard-volus.md) [build résumé: 1-++2-+-3+-- 4-++]
 
 ## Cabale Turienne
 
- * [ ] [Cabale Turienne](porte-etendard/cabale-turienne.md) [build résumé: ]
+ * [ ] [Cabale Turienne](porte-etendard/cabale-turienne.md) [build résumé: 1-2+-+3-++ 4+--5-]
 
