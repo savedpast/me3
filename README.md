@@ -26,6 +26,24 @@ Bugs possible :
  * ...
 
 
+Comment lire le build résumé
+----------------------------
+
+ * Les numéros correspondent aux lignes de pouvoir (de 1 à 5)
+ * si un chiffre n'est pas indiqué c'est qu'il n'y a aucun point attribué dans cette ligne
+ * les `+` et `-` correspondent au choix fait au 4ème, 5ème et 6ème rang de chaque ligne
+ * `+` = choix du haut
+ * `-` = choix du bas
+ * s'il y a un chiffre mais aucun `+` ou `-` c'est que la ligne de pouvoir est monté entre le rang 1 et 3 (avant les choix possibles)
+
+
+A quoi sert le build résumé ?
+-----------------------------
+
+A pouvoir sans réflechir, régler rapidement les pouvoirs d'un personnage.
+Je nommais mes personnages de cette facon dans le jeu de facon à garder une trace du meilleur builds après promotion de la classe.
+
+
 
 Adeptes
 =======
