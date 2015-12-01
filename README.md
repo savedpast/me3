@@ -104,7 +104,7 @@ Soldats
 
 ## Soldat Krogan
 
- * [ ] [Soldat Krogan](soldat/soldat-krogan.md) [build résumé: 1+2--+3+-+ 4-5-++]
+ * [x] [Soldat Krogan](soldat/soldat-krogan.md) [build résumé: 1+2--+3+-+ 4-5-++]
 
 ## Soldat Turien
 
