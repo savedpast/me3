@@ -1,9 +1,30 @@
 Mass Effect 3
 =============
 
-[original data](http://www.masseffectsaga.com/forum/index.php/topic,2767.0.html) ou [ici](http://www.masseffectsaga.com/forum/index.php/topic,2767.msg38810.html#msg38810)
+Introduction
+------------
 
-Avancement de l'import : 25% (20 éléments / 80, ainsi que 34 liens vides ignorés)
+Bonjour, j'essai d'extraire le contenu interessant du forum pouvoir l'améliorer et le partager.
+
+Vous trouverez le contenu original [ici](http://www.masseffectsaga.com/forum/index.php/topic,2767.0.html)
+ou [là](http://www.masseffectsaga.com/forum/index.php/topic,2767.msg38810.html#msg38810)
+
+Les étapes :
+ * Importer le contenu (ca se résume à du copier/coller intelligent)
+ * Importer les images vitales ou répétitives (tel que les logos de notation, ou les copies d'ecran des builds)
+ * Voir à convertir le markdown en html (et appliquer des mises en formes, style/CSS : jolie simple et efficaces)
+
+
+Avancement de l'import : 27% (22 éléments / 80, ainsi que 34 liens vides ignorés)
+
+Cet avancement ne sert qu'à tenter de maintenir ma motivation intacte!
+
+Bugs possible :
+ * Il est possible que les liens des videos ne correspondent pas ...
+ * Les liens `ICI` des phrases `Pour la description des logos, vous pouvez aller ICI. Vous pouvez aussi retrouver le sommaire ICI.` ne sont pas actif (j'appliquerais la correction massivement a la fin)
+ * L'indication de l'auteur n'est pas toujours présent.
+ * ...
+
 
 
 Adeptes
@@ -60,48 +81,48 @@ Soldats
 
 ## Soldat Humain
 
- * [ ] [Soldat Humain (Burst-Damage)](soldat/soldat-humain.md#burst-damage), par notre guest-star Sheppy [build résumé: ]
- * [ ] [Soldat Humain (Sustained Fire)](soldat/soldat-humain.md#sustained-fire), par notre guest-star dimitrie [build résumé: ]
+ * [x] [Soldat Humain (Burst-Damage)](soldat/soldat-humain/burst-damage.md), par notre guest-star Sheppy [build résumé: 1--+3+-+ 4+--5---]
+ * [x] [Soldat Humain (Sustained Fire)](soldat/soldat-humain/sustained-fire.md), par notre guest-star dimitrie [build résumé: 1+-+3++- 4+--5---]
 
 ## Soldat Krogan
 
- * [ ] [Soldat Krogan](soldat/soldat-krogan.md) [build résumé: ]
+ * [ ] [Soldat Krogan](soldat/soldat-krogan.md) [build résumé: 1+2--+3+-+ 4-5-++]
 
 ## Soldat Turien
 
- * [ ] [Soldat Turien](soldat/soldat-turien.md) [build résumé: ]
+ * [ ] [Soldat Turien](soldat/soldat-turien.md) [build résumé: 1+-+3-+- 4+--5---]
 
 ## Soldat Battlefield 3
 
- * [ ] [Soldat Battlefield 3](soldat/soldat-battlefield-3.md) (to do) [build résumé: ]
+ * [x] Soldat Battlefield 3[](soldat/soldat-battlefield-3.md) (to do) [build résumé: ]
 
 ## Soldat Butarien
 
- * [ ] [Soldat Butarien](soldat/soldat-butarien.md#) [build résumé: ]
- * [ ] [Soldat Butarien (Total meltdown)](soldat/soldat-butarien.md#) [build résumé: ]
+ * [ ] [Soldat Butarien](soldat/soldat-butarien.md#) [build résumé: 1+-+2-+3+-+ 4-5--]
+ * [ ] [Soldat Butarien (Total meltdown)](soldat/soldat-butarien.md#) [build résumé: 2++-3+-+ 4++-5---]
 
 ## Soldat Vorcha
 
- * [ ] [Soldat Vorcha](soldat/soldat-vorcha.md) [build résumé: ]
+ * [ ] [Soldat Vorcha](soldat/soldat-vorcha.md) [build résumé: 1-+-2-++3--+ 5---] #FIXME: dual page with sentinel vorcha
 
 ## Destroyer N7
 
- * [ ] [Destroyer N7](soldat/destroyer-n7.md) [build résumé: ]
+ * [ ] [Destroyer N7](soldat/destroyer-n7.md) [build résumé: 1-+-2+++ 4+--5---]
 
 ## Barbare Turien
 
- * [ ] [Barbare Turien](soldat/barbare-turien.md#) [build résumé: ]
- * [ ] [Barbare Turien (Wreak Havoc Soldier Melee build)](soldat/barbare-turien.md#) [build résumé: ]
+ * [ ] [Barbare Turien](soldat/barbare-turien.md#) [build résumé: 1++-2-+- 4+--5---]
+ * [ ] [Barbare Turien (Wreak Havoc Soldier Melee build)](soldat/barbare-turien.md#) [build résumé: 1+--2-+- 4-+-5+++]
 
 ## Soldat Geth
 
- * [ ] [Soldat Geth (Flamer)](soldat/soldat-geth.md#) [build résumé: ]
- * [ ] [Soldat Geth (Weapon Platform)](soldat/soldat-geth.md#) [build résumé: ]
- * [ ] [Soldat Geth (Flatform / Kami-Soldier)](soldat/soldat-geth.md#) [build résumé: ]
+ * [ ] [Soldat Geth (Flamer)](soldat/soldat-geth.md#) [build résumé: 1-++2+-3++- 4-+5-]
+ * [ ] [Soldat Geth (Weapon Platform)](soldat/soldat-geth.md#) [build résumé: 2++-3--+ 4+--5---]
+ * [ ] [Soldat Geth (Flatform / Kami-Soldier)](soldat/soldat-geth.md#) [build résumé: 1-++2+-3-++ 4-+-5]
 
 ## Soldat Quarien
 
- * [ ] [Soldat Quarien](soldat/soldat-quarien.md), par notre guest-star Sheppy (to do) [build résumé: ]
+ * [x] Soldat Quarien[](soldat/soldat-quarien.md), par notre guest-star Sheppy (to do) [build résumé: ]
 
 ## Mastodonte Geth
  * [x] [Mastodonte Geth](soldat/mastodonte-geth.md)/
@@ -179,7 +200,7 @@ Sentinelles
 
 ## Sentinelle Vorcha
 
- * [ ] [Sentinelle Vorcha](sentinelle/sentinelle-vorcha.md) [build résumé: 1-+-2-++3--+ 5---]
+ * [ ] [Sentinelle Vorcha](sentinelle/sentinelle-vorcha.md) [build résumé: 1-+-2-++3+-+ 5---] #FIXME: dual page with soldat-vorcha
 
 ## Paladin N7
 
