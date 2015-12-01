@@ -116,8 +116,8 @@ Soldats
 
 ## Soldat Butarien
 
- * [ ] [Soldat Butarien](soldat/soldat-butarien.md#) [build résumé: 1+-+2-+3+-+ 4-5--]
- * [ ] [Soldat Butarien (Total meltdown)](soldat/soldat-butarien.md#) [build résumé: 2++-3+-+ 4++-5---]
+ * [x] [Soldat Butarien (Acupuncteur)](soldat/soldat-butarien/acupuncteur.md) [build résumé: 1+-+2-+3+-+ 4-5--]
+ * [ ] [Soldat Butarien (Total meltdown)](soldat/soldat-butarien/total-meltdown.md) [build résumé: 2++-3+-+ 4++-5---]
 
 ## Soldat Vorcha
 
