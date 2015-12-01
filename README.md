@@ -108,7 +108,7 @@ Soldats
 
 ## Soldat Turien
 
- * [ ] [Soldat Turien](soldat/soldat-turien.md) [build résumé: 1+-+3-+- 4+--5---]
+ * [x] [Soldat Turien](soldat/soldat-turien.md) [build résumé: 1+-+3-+- 4+--5---]
 
 ## Soldat Battlefield 3
 
