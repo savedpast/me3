@@ -30,7 +30,7 @@ Au rang 4 pour avoir un peu de résistance, et c'est tout. Les rangs 5 et 6 sont
 
 ## Grenade Inferno
 
-  À fond et tout dans les dégâts + anti-armure (Note : il me semble bien que l'autre choix du rang 6 est buggé)
+À fond et tout dans les dégâts + anti-armure (Note : il me semble bien que l'autre choix du rang 6 est buggé)
 
 ## Berserker Krogan
 
