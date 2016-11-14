@@ -125,7 +125,9 @@ Soldats
 
 ## Destroyer N7
 
- * [ ] [Destroyer N7](soldat/destroyer-n7.md) [build résumé: 1-+-2+++ 4+--5---]
+ * [x] [Destroyer N7](soldat/destroyer-n7.md)
+ * [x] [Destroyer N7 (Mr Bratata)](soldat/destroyer-n7/1.md) [build résumé: 1-+-2+++ 4+--5---]
+ * [x] [Destroyer N7 (CRS)](soldat/destroyer-n7/2.md) [build résumé: 1++-2+++3+-- 4+--]
 
 ## Barbare Turien
 
@@ -326,3 +328,15 @@ Porte-Étendards
 
  * [ ] [Cabale Turienne](porte-etendard/cabale-turienne.md) [build résumé: 1-2+-+3-++ 4+--5-]
 
+
+# Les corrections
+
+Un site externe permettant de simuler les builds a été hébergé ailleur :
+
+```
+-http://kalence.drupalgardens.com/me3-builder#28!1H01545!3903565!24Z51314!98AA.O
++http://kalence.weebly.com/me3-builder.html#28!1H01545!3903565!24Z51314!98AA.O
+
+-http://kalence.drupalgardens.com/me3-builder
++http://kalence.weebly.com/me3-builder.html
+```
