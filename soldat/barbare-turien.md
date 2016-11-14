@@ -7,7 +7,7 @@ Evidemment, un nerf est survenu… Ce qui n’empêche pas que le FT comme le So
 Aujourd’hui, on va se pencher sur le Soldat. Enfin, le « Soldat ». Parce que dans les faits, le Barbare turien a plus un gameplay de porte-étendard, avec la Frappe barbare. Frappe barbare qui lui donne d'ailleurs un gros bonus de dégâts, ainsi qu'une bonne mobilité (couplée avec l'esquive, qui n'est pas spécialement bonne pour esquiver les coups mais plutôt pour se repositionner), la résistance venant du kit stimulant.
 
 
- * [Barbare Turien (Coucou BoumBoum)](soldat/barbare-turien/1.md#) [build résumé: 1++-2-+- 4+--5---]
+ * [Barbare Turien (Coucou BoumBoum)](barbare-turien/1.md) [build résumé: 1++-2-+- 4+--5---]
 
 Vous vous souvenez du Barbare Turien ?
 
@@ -16,4 +16,4 @@ Malgré son nerf, ce personnage est clairement un des plus puissants : potentiel
 Eh bien avec ce build... Il devient encore plus pété ! Si ce n'est le personnage le plus pété du multi...
 Sans rire, je me demande s'il ne fout pas encore plus d'unbalance dans une partie que tous les Francs-Tireurs réunis. C'est vous dire. Et en plus de ça, le personnage atteint désormais le même niveau de class et de badass-itude que les Drell et le Fendeur... et le build est super jouissif à jouer ! Bref, il a tout pour lui.
 
- * [Barbare Turien (Wreak Havoc Soldier Melee build)](soldat/barbare-turien/2.md#) [build résumé: 1+--2-+- 4-+-5+++]
+ * [Barbare Turien (Wreak Havoc Soldier Melee build)](barbare-turien/2.md) [build résumé: 1+--2-+- 4-+-5+++]
