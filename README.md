@@ -131,8 +131,9 @@ Soldats
 
 ## Barbare Turien
 
- * [ ] [Barbare Turien](soldat/barbare-turien.md#) [build résumé: 1++-2-+- 4+--5---]
- * [ ] [Barbare Turien (Wreak Havoc Soldier Melee build)](soldat/barbare-turien.md#) [build résumé: 1+--2-+- 4-+-5+++]
+ * [x] [Barbare Turien](soldat/barbare-turien.md)
+ * [x] [Barbare Turien (Coucou BoumBoum)](soldat/barbare-turien/1.md#) [build résumé: 1++-2-+- 4+--5---]
+ * [x] [Barbare Turien (Wreak Havoc Soldier Melee build)](soldat/barbare-turien/2.md#) [build résumé: 1+--2-+- 4-+-5+++]
 
 ## Soldat Geth
 
