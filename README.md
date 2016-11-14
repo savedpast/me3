@@ -15,7 +15,7 @@ Les étapes :
  * Voir à convertir le markdown en html (et appliquer des mises en formes, style/CSS : jolie simple et efficaces)
 
 
-Avancement de l'import : 27% (22 éléments / 80, ainsi que 34 liens vides ignorés)
+Avancement de l'import : 37% (31 éléments / 83, ainsi que 34 liens vides ignorés)
 
 Cet avancement ne sert qu'à tenter de maintenir ma motivation intacte!
 
