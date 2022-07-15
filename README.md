@@ -334,7 +334,7 @@ Porte-Étendards
 
 ## Fendeur N7
 
- * [x] [Fendeur N7](porte-etendard/fendeur-n7.md) [build résumé: 1---2-+- 4-++5--- ; anciennement: 1---2+-+ 4-+-5---]
+ * [x] [Fendeur N7](porte-etendard/fendeur-n7.md) [build résumé: 1---2+-+ 4-++5--- ; anciennement: 1---2+-+ 4-+-5---]
 
 ## Porte-Étendard Volus
 
