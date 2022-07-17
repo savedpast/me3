@@ -181,8 +181,10 @@ Ingénieurs
 
  * [ ] [Ingénieur Geth (Combos)](ingenieur/ingenieur-geth.md#combos-build) [build résumé: 1--+2+++3++- 4-+- ; anciennement: 1--+2++-3++- 4-+-]
  * [ ] [Ingénieur Geth (Sniper)](ingenieur/ingenieur-geth.md#sniper-build) [build résumé: 1+--2+++3--- 4-+-]
- * [ ] [Ingénieur Geth (Commando)]() [[build résumé: 1+--2-++3++-4-5-]
+ * [ ] [Ingénieur Geth (Commando)]() [build résumé: 1+--2-++3++-4-5-]
  * [ ] [Ingénieur Geth (Full wallhack)]() [[build résumé: 1+--2--+3+-- 4-+-]
+
+ *  [ ] my-pref (avec Geth Pulse Rifle) build Combo avec 2-+- : https://masseffect3.github.io/kalence/me3-builder.html#35!1705545!!..T5!F99E.9
 
 ## Ingénieur Quarien
 
